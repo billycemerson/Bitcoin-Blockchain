@@ -1,0 +1,4002 @@
+[
+    {
+        "hash_transaction": "b04b71e40e6ca4785ddfbd281136a0516059b0816b3d486ba4fcf9f7e9032926",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "75cadf3a934982e540ecb5bc0c3bf8cf4336f1475b920dce22c5b3bb88a4991b",
+        "anomaly": 1
+    },
+    {
+        "hash_transaction": "3898b76379c8eaeec62416b6b8065e649192f590e373087a3922ced374104e92",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0bbcfb1316bc1addfe387e875027f72a626ccb8fa67f6bceb27a72d51f701661",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7bc9c8a6257b9da09c10c22014e4b99212bcd5e23f73ce61b6fc127655d9befd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d8bb64f107f166ea61df434e9b5983fa535878b3b13f8c98923ca11f7b1551dd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "228d7ef7c77140f573826a3c19fe88f968d5d181112f30f955f6578e085d7bb2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "eaf59a3eed26cce7798b2d7e18e7bde8d97f3396df0d5d094ea968ab38e1a6ed",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "43a7c3f935cc5c09ed38c82b013248358283fd65749f23ddda66df4b84ce6245",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "19995b45116b79e73ec5ec303c318882d56e6cfbddda5ba8ac44cbfe47fbf865",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "746beb636de36446981aab1ce0b163c0c40c0f8f08eeece809a8b1f84d039444",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3fd81f70f89fec54d2e5adc2faf0ce70c0799562016af065ca2d20937998ec50",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "124e9f38030d6277f5f8b9c95a8273a9d71b4acc829503628df39693a1fbbb63",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "edd66b19db1431d1098a7f4a2e2ee7a2df805a26516b79292f620ccb52ed068e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3eac5900b134a1d4a00cb96aee6d820c8863d0213dcfc3502c3e41c1827ed68c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6fb28a2c73acad2e16bef8805538e929fd03bf2cff482e807100bceb83287568",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8d4edea890709fc739fc0cdbea7af526d3ad5e4eb8b18d3d988ef7f1c4e21946",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ca04c280aa156fc7d4efebc415e0008b6146374d86dfe6f070e37f9ba3c22b99",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e1da03e4c4edb300eadcb229a48329cbdabaf8c18f4f8c7423a559c457144601",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3af5071f14c65b2085f505ab568189d6386ffc3696fb66a2c5401c66722503c4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a1670aaddcac35d43faf8b20e1952f0878869a69283382c6cd882bea10287a3a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b90659c225fc644843ac4e4f4294cfe1e309e28dc1a7def8767d6556c04a5d93",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8beb9dcdf75afb4a704b9197a712c6f4fd38c13398f7b658cc8cd2ab653f08d5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "366f945f27c3e5831503184161d9cafb613bfb20ad0126cbb04889cc789d4fe1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8f3553270307289c18997fa91aeb275b75585d101276f37203a219ea0069d345",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f070275531bc51a759bda2f819a427530a561abd1f6f527b9fb499fff7304eab",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ca5ce126ba905bbed4c05238da4137753d6c21fba6fa50256a48e7396e085066",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "81142ee83fb6f517bf1428f3ab771af77c372f5edadb9ca57760cde12c4c26c1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "257ae6c73400a1953e6ea686a8ad3135a8d3cde32a4ff00fb14810a64f337cee",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2c0af14002a9a3373ca4528fe3a11a663ac5ed470a4483d2547ebb055875b957",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ccfafd452beaf430157feb83b56976e209d63891e1c6a0964144be0d94b48d4c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8290dfd41447a588d2883561a556f68a4b2d02c2d2eb3b7dc92f6a3bbe750321",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2f982e30d3b691863d2b372e28599946b4ea7265f8620e2755328eb1a5c6a399",
+        "anomaly": 1
+    },
+    {
+        "hash_transaction": "ccfea3d80cda81f0800502232d94e6851bc151641acf9c9a62a1409d0bd66261",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "834dd08a934461f8a7548157cffb0feecb32d9ba82dcd7ea06e12ec67bc22338",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8c3a2ea7d7299f0af876a9808d4f2d668e54e5ea0f1cad02504695f8c7b92be9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1dcd8024de059949bd8cb4fc9fd15c2b0242c7a49a0d1f066bbb2b1ce471f4d6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "abbab4492ed3011efda5d9c60d9cc3f80baf89c9ecea5a84035075f8af44d3d9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b1c035c187bf59aa890de9875bb0bb611db44e0db27cf7593cb8f11a455f77c3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e0419908f028fb1ec249391799d5a2be7ad5395e849b1431f3f8ba831e6cf9f0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d5f244e2e4e9a2b37dc505518ac17ada5187fa0a4467fa25464a8aa7b06dbb49",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5fceaa23276e66b214b5e027036cf644341bb3bfaccba40fb8a5e2ced0f6a553",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "11b82c17022aeb8c2003f74c749d26cf02b4bbec713bff2acaed186728356a35",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "04eb5aa6bd5bb2815cc77a35b9cb114e598d4da1b99b9af5926a69fab9125d08",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9fa8e613ad1f89c8e338300950b7cb73c7262cab12a4b374b58f824dd8f91cc1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9dfd44dead98b40c40e45adfc343ec7c94a37e23324d0bd7298376d6a1c5f7d8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "17563f99f80f6ade1f79dfb0e760c43180b1127acaf1baf03e329281b9d09870",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e7ea3da93201b1ac33262f6f7aaefa0c5312039b0b58ac99608b1d72bb11b8ae",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cd8e8d145f8d7e22d80b303fe1eef1c72142787e91cb2e796d0503d6893ac495",
+        "anomaly": 1
+    },
+    {
+        "hash_transaction": "d3fdb589e5f81a7b5088544008e39bae5f8616c9eaa932fb4d3edf583782a95b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "405a0a9e6246b45de604399429a904dc1af1a5ee5a0037a053a409362fc2bedf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2c81e5df6a8972ae4b172fe26aa0dfff9f22fa46902afe0ce1871386872a7706",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "455a8924f076ef426192e6fabb986ba7245fe1f4e418dbe17d9531f94e2db30a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3529d31409f9c0d15290c4c5ab03cca62c9a2e5b4d3475912d99fe112a072ebb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "963ba20d9e8ea97340c597226479198b762085977aad9f439731f51d58391b70",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4f3f4d2ccf7760959baf368a8d94e089edf7dd7ef96b400423995dae77606156",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "11eb3d680abce95a89e9ed0ae22475ee489223b6b43fe6195367ac3ad468153c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "845dd960f41f1a7526182c4852b8dc66469945878624eae864b7c690dec79457",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d5e84d542493e8ee8d72fa66a73599f18884806602e8a67a660450dd4369310f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "07863d2a12a933943b366552fb7ac521da9ca992af00d07279ea3e249ee50fad",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c3cee96e1784e3582f718555d8a97058bdeddf21002018811032e51b3611e5ae",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c1ba4b2cc74afddbca2010997a2319a5e14071c0f6099dc452faefda054bdab0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "161dd220d5d7a121731f4ab45c12cf4cbf617bff4764322cbceed869f33bd183",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "11ae0f89ba5ae56f89528797760ccd2d4130385ecdbb899b3075109a78a1f75e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0ec7f8008f819b5ca00cc80f4a5db5cd59dc13efd2275dde4d93eae6ce3305d0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5e11c21da7ab47398f27b6b3798cabe9fd93490df7590915390ead6138f5cabf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3c9f469b9add4b1f8c955bd5c7a598f4a84f764359a895aeb9050a90996b122b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2bb146da778da742690b1404f055e572e8ccb959c979600cad23dad9c1640b30",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "48731017cbcf9f493e9f12fad39d580665717a68e7caa1ab2103c97194f51d6c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "26d074c71c7c2c58db70ec659cd32a844968debe6ccb8b2dda4e6aef16ee397c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "55d2c68010408795b36160aa2f38e11212550202c7b136c080c5f190ab22b69f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b7d2d63ac5f44f3ce89a72ba68db98eb1c5ea439947cf5f6a7c5d352d883093f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4c6159590e185562df51947e38e1aebcaf016928aba2c8445c634de826cfbdb6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fad52d87affb1f124c81d5cc1bf95c90291a1b67af1b0a87f4739b8e9f9a66b1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dc6ca464ab10b87c7023bc4b87aeaeeaed8f39019e76769a85416222bc5d5e4e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bd5eea01ade3a2e4d4d6aadf535986628cd606b1e1d7e7f90fb1ccd66f624620",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1a439f245eca99fecf3f5372568c3bcefa98ccd7df9ca367c430a6b34cd63901",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b2754ebd7c3458369a5487bbd2bd92cca1f2caa1f10270b6dda0c6e0ff83900a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2522ec52b6945b94842b6d704a8c3f82aac1f57cfb9ad365060117b41f838a14",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9930288ce39289475578a103435b419c47dbe9a70569eb5e309ec45b1632a348",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "de744fcadd91672e432ee7624213854b969d58161cbceefdad55958c8c6ac4da",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cdc53f6bd613f4e368538cb87d5e53128dd5b5adf00b37a8b36eebb77cb6b129",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d3d869c0c308ccb24db917bd24285c61d5883a899e736a38a735001e9ee7ac85",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dad34e7b884f763b55c19c18b5ccc0c295a8375a83fddc9613e066c2b776abee",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "93bf853f61fca5975494440da909fb2d3b51a378220216fe12ef289840c2699e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2f45b418bb8bfdd8aeb5c270324240d2f480a7d1d78d36a29b0906bdc84e8845",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a656b740cbe41790953d41dcf223fcbb9753629cc7a81f0fd33fad2214f6415d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cde302ab3261f81480fc8a1898ec0b69ec58b2c6e36148e6b589306823341390",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d70445b1c54ce819129f39f5d60dc94b8b1d795d6f3ee40668739f509baf9ae5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "34eadfb7374c6891e14ecf88b206ee461b261146e27cbea1a0fd52c804484e09",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c0459bd37dc0c4b82e843f8993fad37503ac57c2ebecfa425960ecbacaae7c38",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5dcdb69552a4d448aa64b448fc06c3385d94a5b2167c63dbb82143ef461ff93e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fb9f91665348830c87c7dc7be7420be42f2fb830df9f181b6120deb454bb6f80",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3e9d9cd61bc8b3e74371bb11d6f78cbc8ae68033364a6fff5682ef91648fe582",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b7b8326645045ff2fa9142c39456408e0c24ef1ae6ec5952789f03b426d56e87",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "76447c89caf930085ee6228c73cb27061591c131d3eeb1f8e2d7527786dc1faa",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3edaa0ccca2d83d84578a04779220eab4cbf0b4d686086e1c75c1353c54d9fac",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "15145455b401e6836e887166e1ee2e5dceb0139a477918c6f3946faad0f71cdd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1b99b71d7473ba98c96dce199c5abbeb8bfd98809fe5cbc1af4005e504d245e1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ee821a6b81ffdcec25a72b80b1f0b6688564721e1ef31f99c69cfbdfa18a6ce3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e80facfd875ab4b677c4f3ff95484aeb8b717b1bebb0003f2c6fcac9f3883f78",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c2276a634e31339dd5134194a0f28c40d8621d11074b9dca52efb4afe9791046",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1fe85ef616c9070a413a1e71993a05a1e8723bcc1303c06a98f26301e20a36e5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e8d876dd489823ccf76fe802a21fac30f3d07314ae86b75061bfc19035f8d6fe",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "22fa8cd38f20183bbf6279957d9df661941df4271c190a974f75f9f6c3e3fa49",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "13284547c889415e690d68c84b39d32142476ccb979570590154c8b9f2337554",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bcc7898dc89b7f930531416178e9b451a26b43990ed44c5139e20a9cfe5756f1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b1558c84cc775a4c1aca19d4810e9ab890b99102b14b6531ad7502078ff16b2b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "903dc2fac84ddd62492b8cdbdc448515610167f982015b7b55d23d6cd65fed5e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7f553cca5a9388299265b6a0c17947e8313931b8eafd0e18ae9f39713abeb314",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fa8079a442aad95c666683ecf6fa2dcb33176ce0cbb14a7e6e43b26a09b0b032",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "23680f1f1f63b44e8cbecc9249d45db8138dc10406b8b5a887e694e338253783",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7a9af47fe9431ecca5c257ff3f8d92106eeaafcb63525cddf1be29bc3394b982",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f3f985a40793a7a5a945f47f9aa3d86a0694143898a22573dfa6af523e6053b4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "987bed0d6eee91429c14d33165d80d808eb5962ca68fa259fa45c72489bf68f4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9d42bf4554ba78e8d1277aa77bd97895b54c772067a405ddb43e995eea57f6bc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9c2c65487212ff2fc41c4e7dab0e0ed4b0eddaa118c33a360b05c3e941ac06f1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "23333ee59b926ec054d986615df65a7b86fecd6c1b6509cca63cbc50b92eb56e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8414c4d0a3d25379ee4df2c53a13992018705bf1982fd74f08093fd5fedc2c50",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7d3de19a73f930a5b70ebcacf289bed689c325d7b783508d7854fabb7cc1695f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d1605b1a73f3572ee863e36cb6b125f6bb7d026ece61968811524448723dd961",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dc3972d7b5f2bd185a5ad84536c140dc3a3591ca7ea3e521ff1390a086cf6aa9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "059a2a4c09c72587672ebde4c1a836925c7c4ee324091ec356a34547bbe8b0f1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dd44eb102b0488f0bd559dafe8696a21ad47ce85c65c32c7cda93abff6368d38",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "62e203b9b17c79bb8660297a147a54cbd840b24c42e7cc5bd73f5061cecc4bfc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8ccb01c7ea70032cae193e7a1a8194fbbed808489c51471500f8c6c3afe9df30",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9a89f7e40c00b5bc0f4fe2441bc73a34ac2f145f13cfc45c58ac1abf83c146af",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "70bca321a0b860509a652a04b20611240d49173afd2cef2ccaa55b0870971641",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b555aff6328d28438dff6217b7136e90953b12c47124579640a18cbc7ee0ad8e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "99a2623564948c3a7969e42695c3c28103b3851272a3c58b064132070057ad1f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9499b718bbdd54a27ca9f9b3f9762f48b26ffbf2ed9ec45ed2cfa0716ed0315f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ed6520ff428b91475a4ea764b594c52d309dd30ef113692d22fab3437b8e641a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b64c91e7e1434d2319cc4f6745c0ceb93fb8ce63c1b4a4ee6efcc82acd16180f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7ff55c0148d766be578d635b089ddcb2f7346fec57dfca5ce61bed6df88510ce",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4e801d8ea9c5984b0f4432be5eb02012848cce7c4a826e014e1a6e776c8b1cb1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "562696a930e1e3cffe5769e001716da3bae84609e92b9a610716ead0b412d4d4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f473d6e6bc94655ba14e79b05186dc0f7f2975285cfb6678a090c7c484771a45",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b6845b0144b17c1b43e6209e2eb667fc456c96a8d2fec01a0b0a731fffb56844",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c386b847e1b977f502321add952b75b4d621bddfa8d99cdcfff1a0ed5553d626",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1d2b0199d5c8354e69bda916b69e2e8f2ad1aa8d017759faf4efe01e49d7b16f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "790993cff3957b23378b8c85ac8cae5e401b595c266bf99b725296e9e185f0a6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "53aa544c48c051910972d0aac15ff6e26f98f725cf9393d54448a212ac628bdb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1fb73467a2648ee5c0876e1dbd915c44ac3754075a2f9c1ac65dee337d3990bd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9c365ed160a97a7857f24d551b3b42fd198b8aaeffa3c28c123024f3a98a45fd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e4809755665d260a80d0402f1e7463f5aec75db1bc1981bb3d778d61ec7b370c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "95262f8b83c3ab339311c78645bbdd697da1ec7bf915c157258998e7dc6f7e1d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7ad678af67a2973bc48666de970f45231e501ae3fea4591e97845ceee9e94b25",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4715efe2ac359e0eddac7826304c59f3047f0485aa306fd9ad72020f7812578e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0155581103894c9b920dc253ce117a52208e2ca37a9d1a43991577477304ab92",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "18ea496199733b4af8ec62b8b341f6b2d125415a0edb7da1c852fb2158021a84",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "36b6abfde0505643b4c1dce337ad369f01527acad235d8e88d3cbd7b17aabb20",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "874a3b6795fbe5759f65c621dadfa3bc014a62649e67e8556abe11dbdbc96bfe",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "955521d2fdfb92daf3791f134cc560a919b8e1daba5976749cbe113bb6487d4b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4b7b3047c7f30e14fddfa88b92c28ab23bdc9c95b28b13910e8ab3b832002834",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "575cfcc61c92233b4c19b19a8e679863ed5d61c56cdb1818bdfd1ff029d0229e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "35e4257e0f9a4bf5910f2b7df5be88c83900b3b36350e7e18d6c60589fbc0246",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0a01e30cde14364ebedb7bba413202533b36a122f77b41afbb5ee56b65c05028",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "56a0d9d0147702cd79e23b696a64f37baf417c92a43442ea7081ab6930014de0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6576872d634c8167e85a5bfc05075192ca3238732ade50b82b45d80fadae897b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "72b339a86fd09bbd0a22c49509594dcce22045683934ee6a16b49866b5d4f6bc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5c4d660cbf1ee23e2e1c0b9f9f7834e23fcbafe783c4cdc9a69542c5066aff6b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1569b89e326a0b28ab92ee84003e64c794c5df05cf45aaa4f13758459430ca35",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9d9d474017145bec29d0002c970f70ad0006852e8add64a8391998673b87b8af",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "98673cf8179d47ad51b931e276c75ea80ca3ed4d2063d4c75f14c5dddf36ac34",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "49b82da26bae965baa1b569b18a992c59569f13664eee597e8fd3056929ea885",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "545f4ae1c1823ca5f199490f66cf9a706cd367489c2639b479c9aad6395bd49a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "327ae0dd1e0c5c66624608133dd8102fbd2834f695806d6b2eb31f0cdb69a4aa",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c9647fa1e259bb75a85336b1353548833676f6ed08a8826c5cae0c180ab51ce6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5d49b3f3ac7ba08178c46e36afecfbd8ea1d8a314a703e549205886ada3fc575",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a185d064a4144d099d39535cf841594dde4ced1b9ca25e5315eb300ec48da5b8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2aec3a138eaba8cc0227d3f1fb84b74507440ccb96fe3b716f289fc8383f47ad",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7cd7944e4534da7212fb5357ad9c521244aa5f8cf8a33da405ed477514b03780",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "636ff9605691e5c76f9963789eacd04091045d736de3b94330271fcc53447dcc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b73b311f88964b48296be344b2b6660aaa4b7c4aefff8d3e6fd1331851d4a3e4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "45ebdaa12bb10b91667cfc3e5062caf86690ced33a68d0af46f25fa3f353d172",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ea98bd55174bda78f79440b1a3f0759285d6cf5d6797a94535714dbf157f3194",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "75e0390ae3a1b0b9e2aeaa92e7b16d66c2f517c00b7fcac6c301d63299b6c058",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dbcae53ab49e2995f147338cccc8e0755f2eb16bc1e56ad675b1cbb31da1a9cc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a1d5ba4cfcf6dc115fc819bd7c92cbcd7a4826ef16660043b40be17e75b7b04d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0f944c3482fff10a9934f2f43aa00ad06e76caf60d5d59d27709548883659472",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "54e75a20cfb2ff9fb0705f59860aafefa68f3e7c15c09721d5c5345e6f38e407",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "808fbfe0a6648ae2f878858adf1af8636dad4fb1b362ed3e1292639fa02aac10",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b70f6a3a16b4ff763d02dd6f3ac9a1316df29ac8bbf85bd9bb0a81a1a5361925",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7c6e85a3f9b13bb84fdac25fec5f0342dbcdff682a8119b4ac4b3f86253b0413",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "12aeb71d47b8102c768f845e705fe68984b2ad74140135c6703f5e1cb210ea52",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "26d5bc3d654e59aeafef40e4ed9b27f109070963376029a5bed352d2356c5f9b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a9f4870b028bbee49b916a9b8d8a726d20148ea9fc28cb72e94b25e7d72df7a7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2b921c3b4919c04e1bf893aece14ae6cdae898245a22e9f315ec171cdb72f1aa",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0ff9e0e37461f53a98bd094a66d2a7ed97c39d056143b672673430f3a11c88fd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d0f4facb69a1c72511797fe7355ac4a84f7d8458739c55465307d87634073d2e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "712e78ea25d5c6bc1df06c62c128e15490475fb1103f509683904785c7028bd0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b85e5133321e98f001b8bc65a117fc08d1032f769e32de2643644b814e4b307c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "64c2a066c9de10fcbb604f2d69ebb0cfb4e1468b5119e53232f1e4b6652664e8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9af638f8d8035fdce15ab998a2df9e4d36caef703f803bb2f66b2a302fc703ea",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d3c3f93f36777d48963655d32fce2ff3c241e66821e31deb71d78395a6846d3b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5888308e35c540a992ae5749234db6ad659ab4ad1a00ef506e198631dc3b4d7d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3b9b5a058db24ae88fa753dfcf708f6d4396c3b08db9327395f4ce65330166b4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "59047e3012382e0ce802eacb319d0371bf60ce035e357f663d456fa87a241d09",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e7acd19bea30b5016584ebe7e0201b5603fc90dd0024b669cbc7e78e2598214c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "96ee350abe5a5a97105df3db020425a7aa9581e6caa546f368f12e4d1f338db6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "497d865ea9ad6ed49bb2a89326b31a7b871722c35add7b77ffe016affd4347b1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8d19aaac1a8b12b6a26579b1a1eb83d17b6fc67f0e138368db4ad8d5b7eb6ab0",
+        "anomaly": 1
+    },
+    {
+        "hash_transaction": "f53fa63deb71b5d81a43a0fb39d08e06feae9913f1832dc014c6eac91171f2f2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9f34cf560679e4141410bc2dd6a61a4766d7cd7234a18caa9120768983a765f7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "31d137f386ac24c626fbd18f061ba6fee48a2810f1c81c2309bfefb27db9db1d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9385bed1d89ec7d036a62943c7bf4bf83c13bd791f12e6379ba2a19ea80353ce",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d838f0b91159a08938af658d4dd99a1f535beb4fdfb6da5f1b9467d86a654ab4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "218f1f940bbdd062e402badbdc8d98264f788e4691f9b0934ef34d0558eb4d85",
+        "anomaly": 1
+    },
+    {
+        "hash_transaction": "961043fca82652c5a023cd31afcf12a0b9cb9cdafc45af640549f2aad1cb1e2c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "37022e60f2ac2498763407c6eb1477fd07f10aeb9c092cfb3debb48e5b0fcb82",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8a15665809a703bb12113ca4e4cf880dcfbac6df3d202f48a0b44dc01b3b4aad",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "738fe44d2e49b3d06c0a88e441bf0a49c7211a66c2ec2e4c81db3193fa45d865",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "32561102439037dbc067abb7f4cf28ddf01985df4de5e6acf975c2d7dca8339e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "46941e62486e35674ea044210d4f38ba5ce27019cf280537332f88ef0315de05",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5db9ab70b6220865518f92753fffee6175e386e35070acdc0eb35cdeffdd45b7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2e2f3f538f6cfe5bbddbcfefd53dab32dd5205d1f2d3d362cdc36e1da2c67142",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f0b4c81c390a9c63824deb008a8f7c3adb151e4462d941143ba6d4692cb80ff1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9b678f0f27a16eb3cbb33980b44117ffee1dce2a2a61a357766b3908f14eacbd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1c2eb1afef439071151bd8a27c478ef6a113662713c2160ad3cf519d38743e0d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f2dc39336dddf17480b4bf892e5365df455f32216868bf35f299cc8d28071820",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ea77f24023f6329f92bd4096603ea293f561aa1d57c913038a2420ec167e8c97",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bee0db55a243709217f36c928aeeecf0e6074843eca5889575ef86d785519abd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7d15007651d9ff20c81b76e367050670716edf350285b1dd55c6c6a28434b5d3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "33f8bee6cbbbb8733a2b418b1c0cd34dc16b4db777e2a4cccff72b17aa1e1d90",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "939c2009712b37381ff47f115effe65a40b5c3959b5f5ca905e2d47c08ec4dd1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "53013c32568ed04ee6b79b8910fa18a1793090a1a98054bae73d44f03f401077",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b75ab2dd59e9d36feeb818dbc4c0b639b4b45032ab7d369e2deedafa975c649c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "56bc1bd7f0c763397ace5fdca28912eecbf54d33c4c915ed55cd7fd5c7bd3f0d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1c7d8297ae946322bc131ee3a2257562eb468d3e0bba958e7a0891773f626c13",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e70cd2d9742ed75e8231edaea05faad49caa0937af448d4153af92a1b71ecd16",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c662fbe9a1d443a7208bef54c3f13850e8287c43dfdb664eef991fbd679d0217",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ed80a1b8bb46769962b0af9db423f6246d47851de4a7fcf2e85449d083270e59",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "72370f10001177699d12c1c8bb457798806c8579002989fd3dec7b94a8dee1f2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "12e774328455c6ffc88b74c1371d6ca9d5dc2664e22cad56bc37c3772805113f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bca80c7c0de1791a4e439f0a9da165b0d88ff9e6a19a3a68a904f9b85d9f3469",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "303e6ff70187fded6daed012b334b562d13e483902b38a7cdbda21ad459e148c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c9660a94b835b6a6aebf27239060ca4b71855622f65163611176316a46788e0f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "753255422cd3f4df10ab8758012799ceaa76bac39f8386bdf6fb0504263e958c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e1cb3023abafc316994e24a9b0612f6e977db7b61aa8deb179cbb751359e95e7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2c5465334753badf996f317417faa2d82f7729fb8a8843881d9bc23c7e1545e7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5b9c4dc7b0e0a1b127bc0b9ee524bbbfba5cb3c2ae581bd28bacd1a27b302d61",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9ba9baffe02a3e8931b9e6960942ea44ea6eb451369613fb0e4cb5ada7455f8f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dc28ee948615b8136d4da91810a36d2bac1d585520f67d98c8426bd88973cf46",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5a2613131fab1702872ea9b2276486ea30ac9fdd0af1b661a9217564e16a288b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b84b25468786741c4a7321dc478856413305b523574f0ea3ec16d8afc6823517",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "99c79e1986b7756a302be13ed2daa6be36959321d81dfa17ee950251d3880155",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "88e97ad446d364f5f6fe07348a380bc4a281dbe1135157968a0bcbf6dafe7f13",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "25002eeb749990a7989a385ab9a26adb615f7b221ef1475818adce346bca3750",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "41e526ff8ae9d159b2a543bda1e4a6d7644713fcb58888fe5c580ecf26a69624",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "62f5980e1dcec700ec9f867529564093b7a729d89142e4bf42dd4f1acbf2522b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7f2a248bb92700db120812b1c3d5794ed3acbea28a66f242298e7b30f2f5292d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "49d4330656c47c90ecb3845998147a2d2cd8935bcd8a383a73e2f4cfbe84e62f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "72b29b24ab1a39220dcf4aac5266b3ddc0995fb96c874fdb793e1bfa4e8b2e4d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ef1a949e7fa8ae330864a75900fdb4c28e8fd448ce8db2bd8feb5527fe46194f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dace3c6aa937e20305de1f33616ded0444ffa7729fb6f3ae1cd49050328e2a54",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "861a2f8b4431af608fbee0f786582ba11dfb299dcb2373a85633457c0396b555",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c54e8dcf9c74c5008c314b2484e4306234fb84fe108ee5046796ac870626ab58",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "998ca8ee6e37117fb6ba59b3f8ed189442dcccd76293eaf40715ceaa47b6e070",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5518baaf6b501f6b9b6065e9374cd788109075fb485625cf980c30a6e91f7571",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3a5333cbaf4c4353b5dbd3e1640e10e81d548c74928b813702a8da6574906c73",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2bbcb37b2f32e7edc16e6879002f75364e3f9d3b9eff82225f3d3d42cede6086",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f5e9900ab9714dd11a3c9cee05f1660172a5f57d174f77419c7b51fd95db9386",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5af017c3f0868767d3b6c1b633fa09d253e452ad60d3837fd3457a6ccd5b3d97",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bc963e72526083c2993bc1582b5b2a51d5710850f9f0bcf2d568eea5f6830bcf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fbfc6d4069f3abaec89a747b42c7299e666a9969b6ed88d3eb33c61ae29831d0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "128b236d20b01ffdd49bf7d02e4bcb7b5a49c3e0ed20d50c2c221a4f06b728d3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "506288d3ecdfe53d915a3e525210bfb6ab7835d780d9bc4066bb57e54954c1e2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2923011abc745b59402fe4d20490b428fc45f784b681ada2120b60c372beb8eb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7edc553bc42e37e70fe6c2205dc4d54a49414d956a29d8a28a44984158ebceeb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b18cbdbc705b0d819284a2ef23abb20ed739e3937c97418e0c514214cb0f55f5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3b7ca81c18027efe3a78fdc6ae4f77aba597e9bc9a4e1aef1459231841d0fef8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d3d7881c475bc307c7f009d817ef599d80ae0f74bfb92e52828802fb2c4b1cd5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e4dac5076f44a0a9dfc5dbc05a91f38e6e01319528ab9666ca2a6334149d8ab2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c1dcc1b99385239089dea3bd0ff30fc9967b684158fc067bb3a9e1f7456be1d0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "89620ad08562927f0e00f6bfc43a1e3125662ff31ea1c20284057dae997cb1f5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "030a669f00b735865caca2b9926681820430cd371d911a8cbef98742e1e0a8da",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "30e66b26f2df6ecd2e8dfde2b674006c8245c544c10e943923fd0848ecabb575",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "989e2f7271381e7e1ad65a06f12f7fab4cc4a9a4aade3ea62e1006121b074391",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "214044e941e96643538c93eb6ed2c1ed64100c4c08e938d9c5d0bd0dfc906aca",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e0ffdabcbfdaad141decf5dedcfdf8d1a738e170186efd6261f6375213e87ef7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "689ccd33375b3c4f8bd650d68fde2df6645ad3d3426b199758f6a8da4244d705",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "39e3e717d819f97f0967b2536a901b51eff9dcbc5d50dce73dacd955aac09cc0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b530de85e9fa0c60de282d568b2a92199ddf153b584c6390dff7b762393972a9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "132ae33740668aa7149a4be570ec72e91f58f118ac89360f4d2ee55bfdac970b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "397ac91dbeb93bb744ac98b2d29d2b56bf0227d3f8b0097fdaea106447dd5522",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "71e5352043d22b488523588a1adf3a4c85b7c300ea4af8198b0e3b53d2798073",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a9161bfec3da6e920ea4a7b7f4cde1de8db74a028a466101c457629aa5efbe1f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7cb0964565a1705adda141de4cb92e53f015a6c7852743418210cb1b31f95341",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "17e1075c91b35ed1395c934c08dd946210de8bc5ccc4d7e12c43bfb49a1de294",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6c5646469ddc924152caefc760c2a4d8d1e4343db919674b14e77f016f4af256",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "17965927f8da61f1fb06a503cdcd5161e0ab3ea2b016457dd22700541f722851",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6915d86fe8411816de202da5964ab924033a9e40954f781c68d5e7ba054a820c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "15ce7661054fab0a311d832d9f7f038a480e3be6095618924130ed707402324e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1926e87ec9672e331ca5f12bb208dd50aa2823a4de7b27ebeaefda41a6c68c51",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e7c43aa48d90a18097fe2d7ee657295c45d5689b0cb0e0af49d5925b7c14225b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cae72fe2f32c9c16fbdb9841292102df6bc2f6e5f1a4f1e7ef33896c66369079",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6e142a365b079c1d7c608d4dd5df44f432afaf6a1d8ea495f378a2939c68afcc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ca81c3fa3fa2c005e98f0f508d040268bf61f26492118578cce7c7e5d7c0e4cc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2131d0dd8be8eb7fb462bda6c1204f576c1ece67b47ee48a7d3c35b59ec4d6f6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f1b806a5c71f8f35e19c2c254429b4e1f9ffbfcde7a3ba46ec673a7fd62e5b25",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "39091f53d8bd9a3929e5847ceacce58fb1e5491e78c6ccd4dcd8c998b62977f2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "19ddcabb8eefb261154d1dc9e5999927204918bf054d687af0f6920ef1a904fe",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "70b662f2f0233d9c59895bc8350f6e293a07f95a7a59f41dc8439a902b337200",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "72c6345841bed0d2d8e46b6c38318c9bd4d781edc9568693139bc57fa8ebc7cf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "83ef0d753a6b89ffc4b860b0c19763713be781650618cef400b02582d5407d7f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a7294b78a97e9d5118fe396fd994237cbeb13388786685e30aab3317706cc342",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cdae9758faea111961c43abd4dca5372242bfc1f732921214c184d29a60c691e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "230e270b60f2f0b9680437005dbbaf69db90352a27c0ce045d660f2f312de0ac",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "682cfd326af48b9e22be211463e6e63ab089bd514ca30c6cab5d8434b93b9859",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "48beccdcda75b1ab88a42e28abff80f5d8b5e8a736e88f0c118ac32645cf0c3e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7fd74dca6d5fab2e9b7b526716553e47402799d9390bc8d1470920425e91538d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4d452ee73139ba1f287a01be98af7f9294421d8c5aed818a6e33796a0d03e28c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a7ea184b9bbc2e50ce53272f7fe108869ac5ddde208f5786514600ea92ed869a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "86ec593727a3d9da03ab97e2c2994f8cdb029bd917c022d27964dcb3cd634cf3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e08671f47c4bce6c547d40005379ee1e9ff9ab55a2d44d479b4ef33d835d4dc2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8817a1c329c45bfc93e52e4cc5bc23cc541b1a527b43c99a02b74f041a413496",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "79266fbd4994045a9a3b52e0f7728353132d2d368c6d1c76002bdd1130b7d6bf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fc42f7af2c0628b3721c19a370cb89efcf17c7b9a6d64753faccd2f526d14bc9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "aef76a8a8dc7b90cf1fdb90ae3abbcc046d45e8fc207ea3d5b35241e41312c99",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d6191879cb2be1aca2372ca7c4c22d571c9d466ebec5d2ad343e38ff759f36d7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "840a5134b56efc91eba28826a80307c44db9d92a7f72e56f30154d2ad8e5d802",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1fb08986fef66989cb76c3634bb09dd2ac663bd828021540f8344645f10d8f4c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "39ac2988a3a8d36c19a451e2c893def35ea8399361f2dc0be6bd48c38859a21a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "206970e11d07feb43b3fe979a754025c8e595433f8ccdf52152f9549e2a71d57",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a7434000bcf643cbcfdf4ecdf74337f76b4c1fca3e71e3ab8b03fa8a8d7449cb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4cfd5a5292e6de652472fcedf1f9bc02689b83a306e99e260fcbb3b0d6210b5a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6f43e7e4805ff646f5afc5c5d83726196aa187a7cf6b703ac79d16b932234dcc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "61e4fea62d65390f3748058b7341d32be70e3927743cecd5f128340aa3e0e073",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "95ec536b0a7a70b842bc8eff1152cfb3429a3be690c8160b1f3846c8a36a1d57",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3a46db454c3e07b7bda0062e8d346a81b3a01479d50141536ddbf9391b2deb2b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6d48cbcceb33779bbfa79a123cb8e8bb5d55bd3c93a78827d2aa8834a387d9b0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "063f16f8b5dc5b2b9614b3fefe7b20a8b20f406e25bf9638d12d478f61d8909e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5b60fe8a77c826aded24de2c9108c9ddb3f071a245d50f26ce8e4034a6873718",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bf35ee229d585c2f7e69aa257fd8ef0a704b7fbde379ac5245a45098db86a069",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "eca457e514b6898eecbc68232ffde5b55c6cf236ec8333e0515269dcad639ef0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "97753c60af0add83cb35807235b0a4653970f122d5dc8da20130758e136cb7c7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1ab5eebf2c8bc2812b961fc5447a4435d5ba4aa5e49fe3a831d0633c3615f9f9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "daac17b09330ad6803bd6ebf65175b032c0644bff1601d98d439e1135db814a9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fa62f437c755ec538e08e7dce2c4bd36cbc2ea8cf0dc9acaa98af6c728685c4a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d817a03b0c907307c25a21b883fffacffbf6d97942f8a51960457732e1a288a0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3d7c7e87cb63cce44ffa4121cf73f1560a15a3c10f07368ea4b5557ed5343f92",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7cbf59d438e09520e22097f42acd40b9e299382ce2b2ac87fb02c8f62f3d94cb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2f354fe77184027792b46d44287fd023e596674eba979e11406059532ce30dca",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a006b90aaa8ae2457a221046c654a75340a77c99d6e956158dfcb1c575c4e90f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "82099cee440170b67c30d589cf48ae5228085e97d426730f747cd2312b9cbd93",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cb5e1fb1242d14b95ef8b0f4b6b949e45a528b36f0524db1799eca4111a97257",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f946018aad9906d31cff9b28e48758ac2529a8f5067d7b2101a12e56f80865e0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ed4a609f7159e1d5f2e3554b84a9435aeb5a8a1944eda4629d6d1fe82a0bb9c0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ac8015b1d1bbc81029b55e8cfa6e1701d0a7a33fd73a6516ffaa5bfeb8a37ac3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e9dcc4227887cb30dce4207e828de699049501fbbe7d3ec695a73833418b2e8e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e55c303affaae1e781a3ff61d3ca80cef6c1275cd6fc9ad66eb66a9717c645fb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f5b9609142ccdc577f1538ca32a2ed53c5775ef6a66108d9c143d287541ad338",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ab4f67a568ad8c7b1accc414ece72e85e269d78c88361cb7edbd5c9f8c0717e8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1ab7b10416d702710d4ba85147d3bb718af2f00afd029cc9ee6574906f40708e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1f77fa5e42e0e097e605247dc5a92eb96467c8513f95b85fef90ebf5462d4f1c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "97d0351a6191c2e83e8c9ea965c4783ce340e9e5bfd3e4b583689e9d59ba93c0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "73ba6ff73179541fec3a8add7f45c53f21dd548fcf3ab0fae60d779022f9f4f9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "115594e0fc4f8f589318fffe2dfc73304b0b3532198faa4f4f23c51a6004650c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6e673268139788b91f13d5a866549cda84542be94112a971cc23acaef94b6850",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7377ed645ce4d3cf96b057c9d89bf1f280798631b592cf90c92a45ebab3e9125",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3b0a683377e92e46c029da62ca51a61bf706f727ed0d9717e0480346f9deef2f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d47d27e2c83f8f9abacfbabf3541d2f2c086b0d5227ed4b8e121b5436a1f9612",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c84381b55a598db8debb0662e740c7221f276dcfe77e4850bbbf49d1cf7a331c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a2698a21e20c6c59f4440111e562991cccb4ed237a69235cc825d8d8b5bec60b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fa8b1381be7028beef5591e2ba132d056eb44008e62fc152c4f8e6953c4c9f23",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "08b43343c355f7d28b64ecfcdc3e6cac4a1fa4eb54e6bfa7d2945317f152fe3b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a07d269082543060add9f2db42ff47e2c73a099e703181efc27339984b059d58",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9575a8cb20ce3e787d9e583c52fd94dc5875cf6905e72dee27013f665357bc63",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "be1c1e523e5487de040d987501cb7f6c68db483116c6dce9392a3195256b2780",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "98e31c999455b606db9a6d34f0dcbb47baf70afd0c9faf6ca2290db37e5e7283",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "46d302feccdb04f629a755cb6f1529dbf742164faa4768ac491958865e08aa8c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "520ae0e0f94d1c4cf70b2c7a8a1a4c9d0c090a5c734bebd12b0ee2f9626608dc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "aa259a74433b05c29aa5fcb036839113d91c71db56ba9e16df54eb1a0fbb0be9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "946399e2131be5a4d62ca76a8c7b327a1b5588ffc0d985c18e98d3d8ddb27cd4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e38c294bfc82c62310156995470cf14802a2944b5bfbbcf2b686e78b6f274bb9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2d21b567acd7428ac5aeea98213af1d93f8881b8898e82a88c0945a64111261a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "680a20e184fc1bb1394cdc7755a3c24cb0223357e00c3c07c59dc9094e6406bd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6ab8f54bf11ec457c3e1685efe93776fd87d952823396067270227748d832a28",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a2853267d7ca0b2637d564bdb5ae04ab20cbf84d64ba93d26140de332553f536",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9a08ac03c21c063930e06353888b5c3693c457be2e55fed437bf25c61ca39070",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c67558ffdf7d4262487e30fc0cee365ed35abd60955f20dccb88000633aaa4bc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f07a11a9c24401605efc08dfb0412438851abf38357a9b1cf99e9d3405b52e4f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b3bfef934825867b8380e219a4725eca3e212d53cb0cb1946d7cdc0eecfd3386",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "32dde6ee05c39fabc83fb0306ccb300b9309e7a0369fb19f635cd5977fd8eedb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b0c3cdca2274faafa56aaf1154853941d3cab6da1016fb5a4e51ea9da0ea3347",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "31c8f3a623ea5e1f2b759c1115fcd52117580c3228f68dc8aba51bfc08e2f648",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3f610d0dabc5ca98f2a2938bdc7de90430b37886e58b2c59d71fc9ec40628587",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9142c9bd9d9ea004ed10c7cb0e2755f4746fc29de66ec52e558c5c9eab6ed81b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3eecb88b21f5b7c00a67cc3f00443ed405b6983718673d2a89ee977a2fe3267d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "323a6176fb3652d82288a341fe9c2bfc1e0c7ed27b60d94eb08d2bcc24c5a08a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "86bf70818ce48efb7ff9db2f2f28838a683211f6f9e9fd149ad43e7c18d5dc84",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a886ae8df7fea45ee16af88d12aa2b6b3631db24b83176ea1555d65bbdaf0c34",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c3c702b36fb050b13da62718eeea068c9feb7d1d5f061fdaba2dc0e3bd73b9c3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7a18a9c4bcffe6ace79fae54ad6fbad8b5398ccea2ddb06e8fcbbf28071f87c3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e6101f583f229516142ae90918415c20e39ddbfd988d2dc777ee12ca21401141",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d0cefd6a772bf7cfab222c8232bea1c68d5ae36e83a9246a111887bb3ed6d816",
+        "anomaly": 1
+    },
+    {
+        "hash_transaction": "0e7bda603d2279c7b9202e575c5329159d3f4499be405ecb25e6e5afc8a55641",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "62e3211fa7aeee6efb5683aba29f4e24120ebf91dc7ab052c3f4bc271c3a8803",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "22d6623857e377c1e0080306f79f9aa684954816d7922a543161dccaf9e72df0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f47aadbc23bb1cf48aa1e38eb784b3047d38b8579db6d1a2a45b8c211744954c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3bf59d1332f2be6fa9fe4f624fa9bc94b54a5eece38ec12b0554b2b442cc05fd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3309b2ebe47cc0b530dca19edafcb4cbe42ecd2155909122e84be1594165c042",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "69579cd0f945e8273a22aa8311cd98a664247fb8d805524fca22a22627c54093",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0867d7837313d93480b159f3bf2f631cf8d7842cfd80be4dfc9238bae186496e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7de5ffe210c7aa0e59389b55a328c74774c2eb42e32701192dd3e4d1d3e31590",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c0a087804a83a17fb9ce99b90de4108132e150e1067f079245dbe3c7e450552f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c5a461ab8f5a1a41f089c2fee9a899b36fd6f9f2020402ba54a54e1d20885319",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d6aaec4e2ef1301e05da67a2680d899eea7e48832ebb64b8c2c5260b53365ab5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e2a37fa5f62445daa36ba35e90a04358e8741bd1cbe9142103f7227b074a2218",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a0da277211776f59f60ddf0ca20250b1308401f4f04b04e47ed65ec28b1c8a2c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "13548ab62eaf72f8f8ef698bd0281fa9ac5142d04ebdb4099bed9e883219bf59",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "82cccd897429e9f773e955e15530490bb0c6e59536a6b0ab04be86da944912b1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8d41c28d5c786032db9da6589dbb889bc59b85b88bc644b9694bfd026d4893ba",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6f54598e8c658accbcd0980a432b317d861efe6296e0437141247188cb3ff5c3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d294cd4c52558e0e0aeff86f30101cba4d051d7c0274bccd220eb422727483c5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "efca30f0ea6668959dae93252b46f2b093002f20e47b86135a02154a3dd4ba92",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4dfd424c7caa9a5f62103ea4f90f6538d7131406807789f130e0b62eec0cd770",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5b81510d59319e9ab426119577edc972685b221f7ea1a3bec29fa1db6dd9a71f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9fc526a86c779eb1d57c5181d61683321c43a42cdc6026b6a2984d73682e1eeb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fb1e6dd558b9bf1e387e7a9de40d3b0dff0d7da06cf53460aa94c58e71909c7f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e4155cfc43c1b271ea56abccbb51700214987577f5671f01ba2f88cdd7d081cd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9c07d1df4af047efc8c0af15ffc81cc4c53954fc36885f3bb830b06c9f89fa8f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2585152c75d1eb41668dbe2bcedaec4382000a85585a41236918d0b06ca39aac",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b7e9dc2230e43d9bdb1ed4b544cb9b334372274f1273f95c08f35c176975c2a2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "784528d23b8386721a37e390b1442d8a65e32af0a9f52932b76ba2c8f9274ff9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "af47580006d5cc2152f7366b2ced5b45e6e6935ae5144c6d569550f7aaa1c7f4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6a666736e40ccaf7378a90f88e28ce0a47db0c09997b2e8bb544df4d83baee82",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bd7ead7b7c94711982bf1333a2ef501dd0363f13e8fcd7bc669ecf5c2787f828",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c22efa5b2b1f2bc70ae5865a436dcbc113a1ebd7f5ba6c7904014856a8cc1dc1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2bdced5bb2d31fb48a3ed20c479f54954e8ae83350f9209e3be3daf83de0d509",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "886a27c3bc18cb9c704b3f08c0b70d40179fcbb9029a6f8eb5b5faaab5c4ac2b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "95d212bf4b5193122fd3546fba84c72d755e646963af25f4d5a222393dd5c975",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fc3ea27bb8f3e3ff38df860cb25842b9670ed48917d28e693d2fe40f90fa4c8b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bc52268f5c82a30701b5a2b3c11ab5841ec7c8b648a47810c25d0ad00cfe93ae",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "095df6613e4f2e7b99554e32f98c15f6d484c114b23820392b473a20c77c89b8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a4c7a0b1b0acf9dff42b6f46944193a19afadbc588c6c8ec28d8b180e126da1c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "19dff62deb4dbc22fc4a0e6c990437dc343e3a5592af63354aa7ec7c783c9185",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "69b89c115643187cd58fbbae1092dc0b6be206cd27b1c8f1a73923c7b155d729",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c540d11eadbe3ec9795111a97c90cccb5b6ab14280e549c232df0edd88d7099b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "16158c926c78f2f51ea663f5766165d8da47de8779beb476a4d229bfacb689fa",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5bd70c28b107bf48cba41834532e4c573885f218e3d319bed88f4df6a1527685",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e42b0011d8bf51f010308f6edf24e6456ad61a4463b164c301457cbfe7994bf4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dadfd228df0637a0b2e3a8e44663def3afc13e6213889651243158150baec942",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9d7b211b009a338417ba9f650d2c345276b9cce2d97d07621c5a48e58cd80048",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cb80868b860e3d2fc9964739cd4d3c16f2d288919129ea9b3404aba4740f6c6a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9d3b3931d5ae7b1edec44f330d766da7a9c321e985cdfc5f02346984aba93a6a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8ba92d65de2f358c505530cfdf5e4deef48bcc027dd21f94ffdfda4cec374911",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "81ae992baaba03ca33d770ceeb4642ec01488afe096a3e4ff8d802114691669d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2fbd60fbf844434de0b01d7c0e1691bc6bd75c52decc582a1494cc5b7bda0c08",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dca9a2a6f713d7b1ddff6d95fb6feacd54e85df105b419e6efbbbc528344b50a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "04ff71404c2180c186010ceab85f6ab22dcfdec59587513ff63822d052886d10",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3cb821b0aef5bf36648743550272a7342760a4e92bd05e85bc4a29e6a0b77913",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bbb6ed1caf7f5b0d5748550a2e332332b083b873fc5d679ceaa2dbdf6185b2ec",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d42a336c7e71983ea0fae74f3425a5c20550606ecc9176557df5144b4d32bc1d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "11b92709936aed6f77d08b0b884096cfeb142b673397598ba58616118d432924",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9e10fa5272eea559238ce300d2ea89045c70a6610e2edccf25264a46052ec526",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "69b78b3e15f7f9eb11c799f52aadbbdd192aca87cbad1d726c534b380961052c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d1ecd8f6c68708182dbbe523008b49fe6e302339b13889ea1951150075a48730",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b043988684d71da9dcb99327398ef81f8606f3039dc11358d559705a0bf89b36",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fc08b78cce1fe59adb71f3157c4322e1213bbbc1ff9376fdd12170099b2f39a1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "812590b96d310e13dcccd82dd6f84b5b78626297c797d7635d9bec1aba3cf63b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "49453b34b6b5976a5fb9143a5cd5fb0c1f96aa7413f1bc5839c19fb2086a423d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0b5087b538bb552f0d6709c13b4f85ee028de22414e9206c091ae1ee861c4a3d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3dd496ccb5606bb556dae6fa7f35af3dd52e984c27ad72c2feed3e2100898743",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8074195fd72c0469248af51fd8f8b5566feb4727a76897ad3bfafcff6ad6d858",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b4b08465822665f2801a5972f74d8c2be55400709dada903ef7c7ca89f578cdb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "08bc24e291a1d7c83ff4c0efc743d89d2a651bf873a4c07f8e1775bfd88eac63",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c94f78a2dfa7e8255c3b27f4812df4df43cbe3a5bd746c45d96c9b91cde62a67",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "11b87d3de8fe207eb23eb8de7f2e5b835199a72b293365ffa3941f57a26c2f7f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a352edee9088f8fe614e04f4a9fa1c78236a0c43c479deab33c5b49491c0d882",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f19fc76ff2b43e0e71f4b7755b2736afb37a9f0104329fd4f246b98de31ced81",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f14880bcdf1669dfb89855b09e9d08266c2ca83bb8438c5abe5863ab37bf9f82",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c2f0cf518d965c214e3c90936e757d70e03021cb0aee68db97c3ebe5e8dc1783",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0d240b98c25be7c87cd7d9d7073d0d019170d52e17d31094ae3a922bf0599f94",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b29db9a962455860878f8dd9d51a0024207f9356674d185fbe762431c573e794",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e45e0c2deebd4efce16782d25a60b8d128a7b0e71c9336a8501375cfb61feba0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "540d0a185c12b725419e7c57be657bbd9d28d50bbef13578a70e5b572792d9b4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "727a2ae2e7893c358123e0ec86238aa881a42dce67d269dcd5a1c3acae83c2c4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c44f5d85a2a5fff0a791a7021d55b38b033a93d45778aeae604b1459c81ad1db",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "de6610a73a1bbe866ad30e8d0ab9d81d6a122ce9234d4a289832f5e47adcebe4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "52338e67672e08c437e45f120381cb3a90f1e78b86f927bb4f1c09c9f35c089d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1b2a481e804c29d574158d0c7f46939dd887f566302cb1a9f59e8c3690cdcf34",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4bc1cd1cb0bc2a42448e9045b2658cbe9f9c463fc38a12cb5e79a433c99dadd6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d7641e59d1136f4035adb75da4dc28fa4277b202f05f9becc96ca49d3184a879",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "89ebd8757861334fc1efc5e1c2f162960eb1477c627769d3136ee07b11b24054",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a3bd608599fd4f0390442c7681e44fa5262826462707227e92682a5e93f904d3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f544d6c22d16e5dca26c4dccde98fa6c04c62934e81cb19d910310af8867591e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6ea1ef812345654dd665a50fea144a788474fca9b99ec3fe08913a9b583b73ad",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2d4f89f775ba5948100fa18b6a4cab6ea63f28a0b1cb3374a043993998b5a4e4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "da1d1ff96341d1781e5b190511918633679c247de1781012e5266addf847978d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "426cfa6e1067a2e2c1cea7208453ea4be6b0fbe2fcf86e28e93deb937b8d2de0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7e6f4b6e707d672a250fdc052c98638171e9e1cf4c9ac554c5bf1cccb11be0bc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4f575c93ba854a9f0db2a1a926fe1aa25faccd6eab41bc899cc18504a1de157c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "68bd6a08271513ef831d134433504e8cbdc2eb118e7268456145fe7d23865def",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d04aeb5227d6bde6910259165f3d9037031b36568b4ec28674fd9824b561dc42",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "480a27be268bfc369dd486b310582facdf34237109f5a96737d54c8e5ddad4ff",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d71a1a763365a9af73188c398e305fdaf47904c1c640ed0e66cd91a52dd1e608",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "de3b48798bc78ea39b14c63080bda5c65e97a9ed5b49acd995dacfe5a7f44011",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "41f8846ff965ec37a36c2b77b0fe122ca2fd4116f7c67899fee28cd15b8eed16",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7fec081f025e42e0c02f4ba5791f15c1c44220e00e1674a47b1039857c199638",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "eb1dc2e47166be5564518fec87178fdbe1d88f2e5135afd35374ffc83554c86e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fe43faf29ba75eff799c6ecd9d76f87414e280064b850e5a7ba8bd8a3ab16f93",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "edde776e5f9503d05999f453493a905724c145801c76a8c3c4020b73a94ca899",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8953e73a52490decd00efad82628f4714bd91e59c6b4d66151db0c6d370059b0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "398abc0f227aae52f776cb469c8725e4d697675d55eea123ca41f7c19d0285b8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9f66a3e05b6fb66a5cd7b861016b4041d074816d42c6c034a77f24df1ef62485",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "24cd65817f2344760ae4830579c70a7fba025c45e6e6f1c46a0cf3676994bd01",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9dfa456ee57ad79a1c228edd024dd03069d48d19532fcc55991480b8bf69d583",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b23a8911cf1c58dd400bc29b107b1a1ea11d1312fd4274e54d2bfbcb55a16711",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "417b586fce166e2fb93306dae6eb190eab723c735ebc0885ce76020369e4f479",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a676ea0a1cfca652de52a7e5c864f35a7b0ea163f028929a3bc9b27031292dc3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0e70e22bd74acddaeb69d5c2004447191641048eceaa48162f4d44c6e0852a6d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7326fc5c239bbdbbd5b1f6b69ca8be90f10e5ceba1fdd257b0e4fd6da2e43524",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2dbca3cd5f00ef238cf2b2fde88872461fd432891a5e807ec955336ae2a67bac",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7a40732a54829852971629f4371ae1fb360dbe1ebe228368548a12825d3ca7bf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d5e300d66664bce53e0a790bf46b8691f0117f41a22ff756a93e02083b2f9407",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2d65f18fbf070b958d28e034e5cedbe95f11016a6a5cc815f5d9b89fb9725462",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bd52a128aa39c6d3d6c8799e9a5616de71f2912842d10dadf2db505e375d4130",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a652c5ed5499a3be40464ad2ec45ef7b41f63ee13287046157786d2f14bbc07f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5567e297854116566450e4771eebfe0373f2747cb20791f4db84ca8adb024d33",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f0095c3423c9f341bfe91c29f63c61cf6cea6caf6263357e8fb42ff30dcd9862",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "33a5c18bd116ff08fdde69fbf0002ae81f5b0fdbf629ec2503a1369664691ccd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4217aa9339bd8f470d0abfaa7b57810c1d9480abd55d98f43e4cd4ed9bb08557",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "94bc128858cb03fe07e818665c0330f3aa0e591ae2b956502ec74757ee30a365",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7f4238e000d7e9c710d750f43c7694cfbed7e8693f28aed040240246746cb7f2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "eaae0d234e187b576f7f4310e82c898174eb061ca358c22d732b78618b20c688",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8b07320693718523ac340a698ad4588acbd1e7808be9ba8303d8c2d4eab5e4c6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4443c514a1ce3d448645161355f90e46eec9517771fcb68cd01e5dc430572586",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f193d9fa32db5c22e61ca7f1809aa4b82130bc874bdff3d1d5944790c600ac9b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ed5b61c3298e91ffa6084166124faa5a742e08f55b76698fe6c00db884fb501f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c28c83b35f704c940d5923e2b6cea21253414592a98873d168eab6e626987725",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e66e5e4a1c9ca9e516603a42044fb5a4a11753e9c1093a024e93beb96f9f91f6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "404f0fdd8ff38f7184734c177d643d3f3fcd4dc3db5429d4840006a9bc64fbce",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3ee2dbf1a1a83cd1d2099f30436058ee12fc627d7197f9f71dc481a6c6a04678",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "13620496f7dc6c2b562ebe49efb871e6dcfcc8711c546fedc447df3948ccca34",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9d8ddb48d7cafa797579366a54c99560ddeb4f92e238f51064cb990c090cc2c2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7bd4b8e34baea0122debba17de788a70b5a34f4cf44d1d54676e716b89842ff0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "368e1f42f4b138ac4a1b07ebb360072a32a1ce0d5976facdba2e3d76a018b723",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "893afdcc50c83eeab6b82ab26fb4c1aa43c0822b6fa94055c684fe8399175599",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e9932c4a3583e171129f6f8d9159c7e1cbe13e6fea0a27d912114480fc1d4c06",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1a8396085ae3ea8427048a36ed80c8e721ce46c9312dc2993a724aa109e37f29",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "acbf0db8384312649dc1cfc7f9bca853d8ae60c251cdd211b370add4419cbe9b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "071f238097dc875a7b9053c4d58afcaf6f78f747f31a709a3d39cf1a5cd12d74",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cf257927f8f8a9df3f276934502bb3b2b05ee4de0444daa8972ca013d59d98a6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c99db8caa74ed6f246360ada7d773e42149228038abcfe842499242930ea8b23",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "608f76cdc4d60e5e2b5e8125da7f687531cc81eba32f254ee8f6f48c86856df7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8b9a5e91ed8035e74d1adf8595b192f91b296d007f428f915ac258bc0180cb2e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "921ac22e4b0848c2f11a10f3fc0aaa645db85b7abc31c8a7f573c8399d90ab64",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6b93720ec32794dcb1830f15b35fc9f8b189d24258ddc1f8c773117483e91f04",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ba71d20f5598aaa9a7e001e8d3f2a027e800c0c7bf32678d7f8369e24d9ed205",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "090f40969375034e5c689d1dab69948e48c429c30f9e134d5f49616d12cd5716",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6c3041efc09855336208ee608d83797553a6cb5ce26c045d0735e39a9acf8d18",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9850849a08c345c37fc6ff6aaf1f22a5e6076d9b8ecd876946b78cf1c663d01e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6aafe848ca4f694ad3129e156dcff3e8b0712fbbd6c6b32f854c878bb6fd5824",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "633ccfd6ce31f18cfd65c5e05b8f92d6beae25346cc57ffc6f0c9e0144065e40",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "87e53f8c4bc7102361c40266120caed9ad2c388f7176d2d72530ed8e962a7046",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4bd8e32eda5bb801523bf97cb5d19034b55f2ba40d6d207cc2b073c27de8f549",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "95f5024745967a4107943f86669b377fc53e37637ca4a23a6e17bb3b4f85874d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9cb1293dc09ffdb4a76e5e79deb6ff6e6cef92e712a4d30a4bd439803f1b4b52",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a78329a646e4e6e2c72f8e1a5251135337699725fb40659ffd4e0c2ece24dd6d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "31259295d384ccf67b0a7e730f0f8daa8adc5067db640810061baf7a0077a775",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "45a03660a47ac5ab1e176b9c5b067b42d963a62365b682fed6d2ebde66bee59b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "af731d196e8b2f24ab73224d1c32f293e917879ea3fecb462c3d3c55b5c6529e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b0151e45b8886afeab8af5d28ab25bc9ad618464117e328d45a1ded6490994a1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f70b66e14fdc8fefd108772d70c9f85a587205064e4f90200b9792e5eb8ae8c5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ed74156187e1699ca09c9c50e1d4db9b75cfe7e3bc29d5143ff63549806205d4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e78f9545a9b051a0f86b62e16cbc91cd92cf5683e8068361cbb9953dfb2904d7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5ea33f6db2d883f274c87f80b2bf723f590b748394682ead9d399d18d1f9a7e0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b597f5fc2707b7caeeca843a802f96b5b5c022c32c803953f312647573c2f4e3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f9a2542def70149b000a2c18d0ccb81544b138f2a10ec99c128ec68775b2b51a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "19056d47f3e2daf120817697b6ae0ca8e479aaa5afd0eebe4a1a6714543e419e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a353f565d4b6f28646357c5e6cf9299931b5adcd810113a355fe9c4d39e948f4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b75536527c6b46631b6cbf8720a00b8553725f52438f4c8b6115621e9f0a9518",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "84b10205a1d256a0e2a963b8c8faf7d42955613329dac7ac5f1e89af5136f302",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "33fe30829724d2bf78876e07a00a5f6120c5cc75ac43d1428b42634fe0355ee5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d86927a8a9368cbc9c0c10e035c25ab704ed292f987b4474d3e7b3a7977acf11",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "437595572de13674bad838c7c8cc2c5828134e75d5ebe46b787b4d21091ab688",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5054145bf9c4c24229031724f2bf75d7ba579b84d6fa9d4a7c7aab3b0efec0d1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e39d33686d1891b8f0179b447a3948f78315762d3257e5591265028ea69909c3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "45d5456ed538691e014f602b5e201a6b872db686c487b4360914c54e47d14dcc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9a13647cf21717bb948d81d0fd4fe57f40fd50b1b6140630006f513ccea5e26c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dd8dac267b86c7174aef76031fbfd994a144911674162742a7a4b435c15ff5c0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8814a2e2de2d29daec2c4a181b7732675c913741914d85ce68cdfd38230e2812",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "54326f6bb828a4787e52ff6b6e0e0e8292fdbc464a4f5cce670d31c774b89670",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c0d5c76fd6298a0d43c217f7e3cda1b535d570b938a1fe88e19a006149055497",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2093fff4b113d46c135fdca5245bf06c9831ef53d93cbbd2c297f0d9cd304adf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8aba19244ab86f4bea56446b6eff2554f153e88875e79b00c666faef7ddf9cdd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b0f2410633f2c71e38e7d19255a1477cb838b42e525fa50e97e17792af158f21",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6d67668d462663db67f6f78166aca140bcd20e33d5e5b34cab1ecbd8a40e0523",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "09e3450827bf42b76c7ec0e9fb247b782ba55e6a18a9981e6f07da2708b7f9ea",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "760161e077af490a0e0ac811105590c1b6c07078e50c4547a824da8152e2c63e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3ec1de05b7271f3f7c3484fdeaa12c7aa721dbcf4d3d59fc890abbbb9b75e355",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f3fef4ecac48c178a7ce35f6a01b08a2616609746a15464eef5dad6342547173",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f620501c36293b86c969b234b5dfbab365b4d53b089c2544a84a6f300ba6ffe6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "11aa318e7d5ee386c238cb6379781b85c604a5d5e46e23692de3fac78bf01df1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b18691936c3d144232ef73d1137b262df7345b78c90722905823a617e2612899",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7ef2087a571fa22ac79ee5caa98b8a3831708ca6108ada1139b267aa896e01b6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "caf858e066fd1a0a99cf7468dc627ff33664251925ea4f193e08059325bdbc92",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "06265193f297e249266de5a42d5be9eef0daf2dcf23c9272ed8094636bf66939",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d86b3a2dcd6efd23d2884a48da01396849229e51d1bcaf3437c6b04916d17d52",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "89c43c6cfd3177b24d316ab0fc25cc7f43fd25ab7b41dd28ed431be0c6be06c1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dfe63e16ff8076d810ba482701c9ef45c0c7842f8c15bdff530d7206a2ea5b89",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d3f78cde4a10d4b77eda977b4b558e7e8cbc470e9ac9a8f98262c5f7afd08d92",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "77e351213cda590abfa51a2552434993c449e26144bceb77454dc0f44e0f0d6b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "21e9d073f0bd2d6e613eaaa5422b8d891b5f20ac68807d2251ac32df652ef917",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6ecbc14d16abd4524a4e8156a6fe27b552d099f830931e22ba46dfdb477e7464",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8687d75ffa13897689978241799b94e3570191cd3d36cac64edae12c544ddf00",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4555ceed48ef5cc547c5218ca1c2fca60dc4fe7aaedab0b12c70821706ee6fe4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5bfe533868ec526852ee462363d873f014f74b279c9b1f55ade93c8ab4241bec",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9a0c4391e6a15f32487aee492282025928673300ff23e8d161d3119c85bdacfd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "faf49e097ec1c1c43c067249ad242ec1f1ea5113983f060d7057701fed326b9b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "55da01c223e955267b5837df93be30c9de1b287be1a704da3cc00685287248eb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "aeb6856ac04ffeb664073b31b3fc0a2341afae5f2507a527c425993c3112bb8b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "43565a579caddb601a3a6ad5fe260994e5fd4c4472bfb711cbe0158e5acfe5a6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "42430d0f00deb8ae1ebd5951825593a678c03e8cd837787b5ecb217ab39204ca",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a398f603d49a80618eaace1ea12b8344b3a0e72440b7eaeebffae3c528ef7d2c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e095444b245eb216fa01c37019cdd591fec9b697b19f370c8f4443244f0573d3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "79804ceca8360b74fae5d11fd0a68f28370a5f335455ecd1b7a1c9ed29dc8f05",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c7f63d0b87f436fa276dd41c61f6cc428928db1c1ea09383f32d4a10f8b0b14d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bb5aa997de349638c4a02c303c19936caac06503205d10201b2efe70a979dd7e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0cd405d21bc6aedb5bc2fc13a2df660cd899a25127f5b855caf722dfe66eb73c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "66de4c9c50a5dd2a6c8225229c86e35c3d08dc25c74170fb61bbee2a4bef1fd8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cb6c4e05d07bc12a3f05cf37225ddc892028dad6800ae6c4d79170a752ecea28",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "092f9ff4bd158c37623c5127b4724d610a1b2c315ae1657708db847632e47053",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7936b824e68ed8c94641888c683e66f2c0a10dfd2e53a4f6d92e5fadeccd4978",
+        "anomaly": 1
+    },
+    {
+        "hash_transaction": "4c5783e9b1c66530905b9f33766107298799c140915e001a729c2e35644fab1f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a38d181ad9e422808dfc62f978c9ebd3bc7787d338a4796447e6de44d41d86f2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6e0fb39cdb795f05529c753b19ae2164dbeee53b034fc614928b0c9d40c7b3b9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "51191fb8014c5e1ad2aaa9022cca3595588e4ba23214599f838309f77060d1aa",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "08a4d6f344ec01cb4a9a6def282bca66f78f2c6eab9f8105de075d659c7ff075",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8d12c741d0a6b2d5f03bcbdfe49def53e641cb6c9f523567e08f638fa8ee2f83",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b0e7c65ef1fddbc4cc91b4d265a6b357e688f3ddd02e20ca7bc1bbda57c0a7cf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "07b8e853ee5007643982b8c4e80e0cd696deecefd7e109b70a8e47da9ef0ed5e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "270e6dd627a52c1c84aca623777c564d6947366d4129e0a90aae5fb59a0c69bb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cbd9650e0cbed957fbbae32ab85ffc12a01b79f571667c63d9ca208955d76dbf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "95a8570b7b606a5fc91b528b0cc7cfb535d8696dbb6f894fc297221fdba3b804",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a29401250334cc26e8d306fd9de59f3192c8a0b17eebb754bd5b5a7b69f76e38",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "15edc866582db9f2ffdf6d01f93abe0552ae2073c7dcbb503b5f02c43d94865c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b029ab9dcf7327bafa5517a8fcc77821badb24afd1b1d308daf4b090403b9503",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5e0cf4412924ecc09d7c52b180752e806ea82e3efb08bba5e59a29da70b9a603",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8a6527e533529698e6372bda31b5b45e65d0817af0b2ccf206ce3eb1131b0bcd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "85c242c57969ad7bfea2879b6e3f36158bd9245c913ea1c730f325b0638a68e6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f91507da026b8c9468d36fe20475441ac528f655f83788a13caa6b377682730b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "50372f4f02289e1a6e46022e36376c23628209aa08a8c4fbfb9462210f16bb1e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "721190b6044c139cd306e30b9d36202aa4e35ea66b40b34a2043443f808c4a22",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c882eff3b7b097273431f46881f9b75034ca187a3285f38a7303386bbb9c4a79",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e9964c40f9d01a38d5bf75ba4e0897c05edb08627bf4279b48c85598d5cf7222",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2d70b842225d49f2e436185c82b8a2dc6a97567cdb24c675c3fba11fef1dbc3d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8165c93e9720ba2086a47bcd16348ca5846f7409a3c89ead57178bfc8728bc4a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2e768aeb8eab72717c56a9ad4d3d585d862adf00b9cb7d85790008df712e00ef",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8e7ef32ac8bbe35d847e75d91c0845d71a3225efdeeb56760750dcad2d8ef44a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f3022da0e075cba024628aa3c14306967702ed722012c476879f28b2697aa252",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a5216893b589124e680eec2766f2ce3f5e9fdf05bb78757a72418a3bb96cc855",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9fbb97e7f7ec15a71ea81f5782120d678658dbf05543ea56eb0ca81a5ba45456",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "622194a9da26723a9318ca8b3c9bc0cbe1cd821507309a9a4c106fc2da6fae56",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cf8a4443405b638c7eed088393a6231ddd51994b18afbe5fcb0830f31f29df5c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "da78a78c9e4eaf5897c0d481cc3d753f12736eedbd8a316e22a3c749f53ecdc4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5d88743bab223d231a6174559f19cfe916356be00b745af88670624dacf8e16a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "05bffa34e67c80308a6f2ad29386b7354a30e52663e999014abd424e834afd6d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f7180b887591b7d9bc6727fab723f270f581515e968283058a6fb718c9dd07e1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4606dde22746835d5681e0b9f71da3063a2c9ac20b2f1073dd8bd253aa89ea8e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "096cc1e58d2bd23d6b5ed2f8cae9a35d7dcfea31f8d3a12efe80831d5f8b3fbe",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f852779e578100049f19aa3edd8cbdddb42928a66400b515a5b833687c33f9c5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "af7ff1451f6df2ca4373296ba512db2ed3efcd0314e2c6bf41b2c376689da7d2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a34cf1337f1d900e4183b043f65f2fa241d785429ebb235758240f52e14fb5db",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "83f41d480faedd6acc94e65fcb53cefb9bfec2b5f843d9ae46b548fce5bc41dd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8651c72da31e1c11df9308895c151450fd5e98cd93945aae611e4ca196fceae3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "935fa04af86be213ee8d49297df65c737e8054680495d9493a67cc05767bfce5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5df126f9f8fcd18b45c6839cd00ecf094a7ce64996ff8a61971f4678f99538ed",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "636600f9bbdc2d07a66836d2356ef715f82303b6ff2fc9c171cfc620782d57f3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9babede4402a0beb3ed813a625640dab3e6e724711711eb9fe760fb8af81affe",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7a488f7abe7c175a38eda05334826081903c68779a34045bbb7f9581c632817e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2b0476c40bc18f45e64678906cad394bd27194d2acc11289a4b220bc8515deaa",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bd99b6cc6428557cdfe7a1d282eff3f3a4e2463107567dbd7cef20f3244d2f5d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bf04a6529ea3fd46a7e71e3751216032e6c24fabfa3343d66e5d79a0a5b849b4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "28e63e5f0e3d6ef941c25c5a9074fb973a31a08f7b60900f235b2186c6753e28",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b33f435188cad310b649f89bff112b1a3b19339b0283134be56b8dd3d9b14bcc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1688905b6aea7cda3dc4bc9ccc9e7a264b8fc296493b3f256c5dcce7c7a2eef7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0920fa092a914ad72e5af714de2fd7ecb97cb3bf310ec11dad6faf333821a517",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "edb470a024f889b0edfea0a7f3aa68c6c10adef2cedcd09c58f6f4a7b1ecf60d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7b82e7b3312c73087721d3df4b16567cd1864ec8c7070c5201873d438d21a03c",
+        "anomaly": 1
+    },
+    {
+        "hash_transaction": "fa1a8abe6a2087f71f4c9d86f9b0c72bdc18ffc286e9e1ecb418a6d6647b691b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2f37b08a157a6ccaa8b8358152db71e62a412695daddb862d09dfe36961c273b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d5b0187c4d01b5d11eac5e45322ebcc55f6fdf94ae383ca622d9c3f22553d272",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8da4af0157961067913b465443d7c6c8d17a4fde9bc78ba8f39825fb26ff78a2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e4bdfef8864b1daef945aed4f8bf36ad73fb2069e23efe306bd0c12ae0ec25d4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ba2d4314138570ef54d1117a9463b5de42c2ccb9698b68f37c436a4a5d86a235",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b20d8f43f49e7102d50411d946f8fd339ac263b94500ebd4b7554d54e581f2b4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e1104759c78c7c27ff0b1c90d4ff6a7c008d594052257c95dacacaff27edca10",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "170a2a24cb68244266ae2bc22b15a5c22542925ec0098878fd91253164daf387",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f95b51d9f6d0e00b87612cb64a45f630261ed17918af338db780dd625adf8b0d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ee2ab29b77a4fa645169a369182b358dd1122bb161b9052d6c9bdfe58c4717c7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f4069a48926188d266cd632838ecd3ec82ab4d168bf061169d078517368a4edd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "da9507c851dad8bc62750dfc61ddd0a64f459b2796415ca61a88d23d2e83712e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c0f6682be5a683485cb2839803674a99e721a06375e58a17b93dffaf8515c8e2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "03dbbe77daa2d1def859a6acb1d8c1734bf292187cb5991482fb968d6f87c483",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2edfc47ac27b7ec62bda4e8bd18bf0657cb5284d2e4fd9d2e5e9175340e652ef",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "69ec4f57ca20e75a7beaeca8eea559d94be51a1db75cb5a5188f8d8f387f4aec",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9cea6175b6c2aeb575a336ef05980c87b3402c4a5422f161a8d245e23227d3b8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "13a126019d3228e95a5a0647a8c9b498a3b2f80ae7dfc21198197688b22469fa",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e70565e9875ac4d7bf0cfdb8084f4f63a14fe896cfae25c6a8fbd3ad55563eb9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d437d9c90bb1f0878199d280c26f5e27f580bb3b5b12b16586d0ab09c64cf7ca",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9bc01cf56f98be3aec4974016e8656ca7e4f580f88631327a0f42f567d578d8c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7cd7f1f481abe27abedfda5ef47964102efdfc195e591ef32605ee4258f50343",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d4c0043de7a0f8c9e112e702b00449bd2fddcae18e65f0ff5ecb811a8258acc2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c0aa8fe607903e7f92e11b5e9d769cb8fb188729a0a5aadfe479f6dcbbb2b50f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "85d385ab7424b6450f50cbac0b5db2f29d57ecc8e092ec0b9b39b3adeb8d11b0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c76e37f0111ad23f71c9404193832905e51d577df3ec1023e5d21fd981b884f1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d14f216c63744d50d147fee84818bb8e7576d21e5f065cd7dbf51909dea6b09e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ec97ad59458743b6c50f649b15e8d3feff1bad43ad16cba8660e45e9f4706d47",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2faa39cd0343e15ae85bbb1e5dd2979f6a4640f679c430555340693c74c4d45e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9fe01f3e9a89d1f5e30386fc29aca63e7a2f84fd9bd4c62db6e158ce45a235ba",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8857f89424ee85a2cc9b82600216ffab6d42e98ee4406f3543cb3e3e5236b27c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "aed3e846bc869cda1619761247b0c0fcbc54aee142ff202eeb11c698159af53b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e1e63632b3c1cac51215424770c45db5ce7b0329f10bd7d691b2bedd416c0f6d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "65037baff9f63fdee192c43e097e09f52cc6844aeb2a9d82849e7d76504ade13",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "99bfcc4d7fc1ad2db1608252d6dd47105f72787a2d0dbaae6f54aa2291d729cb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "edae9d629d38813af8c3b7d498b4f944033959dfd3063f4e179bb6d1b4c6e602",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2231845cd9b01b07d8b043eb84d1b43f1457fc76f9678cd416ed63705daa8c07",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a07e4ce68c2f5dc6f7bab5e13df0fa39fd7df421834d848736550f1d8c53fd1e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d431de8ddd11dfc8a2e992be192b5fdd6682e6c5e5bd11be8537261007597c20",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d8ecb932cee5269d0cedfecc3465d2b10ba2dcbef2208fd4d78c7b11b62f9527",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e6c0e8d0e098e2127c4559ce927617cda022c51796ee79157e447945e523572c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "57f37c4c9333df22ff9be123b5aee9b8234e4a0373e958c5ddc0457a35df3f43",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "088355a5d07745f4c9fa4416c77e7d122ced38f3160d1ff6b45a6779d25e994f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a784ef89bd63689b181e43182811043f53ace1fc2d33ea0b8cff174ce16b3f5e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cf4351e798853799a895c1914a7d30cf09a9a4cfa4f68c2bad7b0235f9767973",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "18a947fc9af817e7b0054ed0737087bf19735a9255839a5d318a2e522a551076",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ad12d46659c36946fc83b94827976ad034346847d212760923ae4df935576c83",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "688c2a2c5ec58dfbdc0ee9d06e9583087deb158a9064ad56e59342eb02e7be8b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "62ee935942daf37e4d62020d61bf6a7274ea132f8149f03ba911b909345df391",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f9b6494d04f8de6081031ab47fef0efae57ae86861abf7f7152e7d82abf717ec",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3366c03d806bdcf9fe93b7063225c3f06c205d674f4f3e86a610de95c0dd1af8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6d835995d7836efcaf8583fcdff38b54c0ccfad3d5bcd77276ddfac13b0b383a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9b67ab882fe2ecb9bb36bb25a710fe6f26396debec72a9564ba3812741499f4f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5bccd89263960d4887cab645da5e8314a60bdd6154f302096c59c126d79f5953",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "480e451010965fd1e5119bf7ab112c35ebdf02e5305abf321799d2bb2f8af8d8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "07b12426fb7735747613e32c12a637f7affeba13f4da15179f278bb27cfde205",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "925973d862bb78a5cf910d3f87d9f9c3a130b80caeed2af25cef718aaaca9e10",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9b0939a9bec35b70750893e68080df64255caed80c4db39c54c4203d6a75a8cd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e24bec5418fc6022b454ab41bf5d9267879db6f173aeac6d0ee49043588748ea",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ba8e04b53511945825575e8436423faff8df7e750f632dea7a3ef096b5d77717",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fdd0e7c193703f022fd0cbebdf8a5fe77e29d5d478c1413f2a25dd09a5d4b86d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "aaaf1b64b2e8255b31b5ef08f9222bb966a1cc6f92f411914da7fd3a5c004101",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "480c9b1b5879fd18c3b6d9418f1929fddf2cc82b09bfd1c7dcf2961bee363a40",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a7d91214c91e2448d06746d90ba0179863172e5a59c507bbb5a7267adfbd6b4e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "19a09bdd35228143b9dfcb9346ea9d866ad9747d3fcabb118c7c0f68624cfd0d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a2cefcddc7fc363474565e6439a8dc873fd0138f58ba38f434ca53e25e7b4d1a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a5192f584c5f66b364df79712f9c7918f61ebfa915681d0aab883a01835b4839",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e062cfb67d76c166f31b521af60a224cdde68318aff89cc9bb0920a6d49f0965",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3f7dc8b50e7f4bf7b2d216ddddd23b892ab6feeeb673ba9b74b3617d8bf38e7d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6d2cb656c8524ee5e9c0befd123bed1f30ccbcb67c10199e7928103df043307f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a0cf0658217b4834621844c842b1430513f5c120a4c912f93aaf0f98df65b997",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cdd57b22027de6802a3e599de2a68e0b6d39cecfb92651512d0a50a1fb9673ee",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1aabc571cf10a87f4bcbfd8a326696736ee39c8d3ebc07d4516e8aa88b074864",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3a98ad395a5072e9866436509f0c5a695f0c411375d42fd1dccc4174f61292c8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "69b90de1cc865f5a18fcf652033426f761c79f575fc05323d8328da1ec17265c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cc6b2d14d1a037c220813bf062f1899b900cf84daef318347ec57b2fbba33402",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2baad911c4722b45a790167a7623a3903001a980256c582fe2e5c059177378b0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4412841aee87a5a56964037c8c9436b000e20e8c48dcbf6f5590d566fcff13bf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f7fdd150f8cfc2967a72a21cebe6fe1592b894c5f4106008e0f37032991d5000",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d7286c826782b340aeca2af76717fe4ea1f6212af38f9a29362fc7457346333c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f3b91a640011bff604c1907e128d99a617a489e61f058ec8d51d3117c4c5936d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "06fbe5c573c4ba5ca84f6770949e80b5df7530bc45f9211a0912d90ef228077c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cf3cfa6f503f6e038c02cd1d7acf0ee7929fcfbd4cc87851649917d977c98f8d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "95bf339a0ea4f83e20636ad93b09c7b38753517a4606b9e51612afb4077f739e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c410ff5cbe851551e0a3bd8164ec38cd519277fb865270ea488bc65a9e3f44d2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f7f538a0f9ea04d6d8ebf065d78e78ed97dec05e107fd7379cdc9923b52a3ae7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0ac24fb40c14a1a22bf7c78626921195294ae6d252b54a77fba90b3315785b3a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0afdd657d1dd9e48826a4471d52ea296d628184898925cadb66d7c1ca2ef5203",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "520b935f95cf418d5c177696f860a12b88acd7b49c53fc6442ab3adf882f63b2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4b379a662e543f0a9b95dba3d286455d569acdb0015f4d135330121ed47d06be",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9eb9db4a32401d8dfd79e3dfba13ea8574223b64259a5c11b50583dcf06d37a5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "188fe7a2cbd748b3f953e4459d528aaca84fdbf5554fc7b3f67f07434b58e881",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "51838270b66586ad08e208b4e4be17d5e0a4e87845a0203cc33960df3a1084e4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d089e31ca081e40d4145a19f16dcf4d248b43e50b94374dfe8bf1ba108bfbf9a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1de88a47681bdeb41efa6346f006f6d8c2a677ebe1c1174852e381e074d656ab",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "37c1f8ed797e3b54ee30804d99b8a7fcbb0978444de571e17274a84bd3e088a7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a8798716c7e53f5f674cf84f617446400e81b31877c42302e20784d6f5b6890d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "86e8e18c980c40ed55d547b4236ad0b9a7acb430f513d7c26494367486bade3b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3050fbffc04fcc0a893249461cfe164c34b43ad06f3dd6b5488b83bbd21b10d4",
+        "anomaly": 1
+    },
+    {
+        "hash_transaction": "7797f6f2c1d593d2897c900635715f0134bf565be7c45223189058ec19f38533",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "74d8633adaa24be62960ccfe37338825913e1822480b9dac6a5caa413d0332ca",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "530fe06a7d4fd1f308003a8ecb7ec6ae720803cb1bb976fa27a2c67a56c88c93",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "22bbbb03ebe179cfca98bd04eb0bc707addc6f6c154cc861cf26f4b71a708674",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "213e5cf5510e41317c73eee6f2fbd7e64a43a60debe183eac553edef19526c05",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8a85de3815e99f997e05560c846267a3d5709d3b614c29b22b38cd350338c236",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "92051a37491ccb70ff5c2f09bd1f5efd99dc08887e2b98b9f16340e3a21d99cb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7f65986bc10d6849d28c6d17ffdc7d9df83d93858fa00be4082aa6da96b4b03a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e835ea756618564233f12d5055b3bbe675527566d13289cdb64429a9c5488588",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "422812580a00307dd8c680f41dea3503573bd7ab87fe53e12c2807062f3f56a9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0bf14e37c4c59bef87140aae5327bd18cc9d6008d1c933a11b094ca2f8e1d2b5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a5318cc7560fbcb2a5a34ac56fe623979e8e7cba7bf70993cedae733ae4752a0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8fc32104300c903f5949b92adeab27b59dd4a1ed64bc86387f34f3bb5403f5f0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3e6f119f4cc7e3570ccc8234b1312d1c0b01bd2115bc648d5ccdad5ba0ec7201",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "247b0f88bbd107f032bfbdaa6190bed49b44889d807a4dd79b09533271e7a517",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3edb973ff27994b9b7d32c0d6d8aa84ada31bf7c09753c0771f2c8a4a7e18e1e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "04fa4a108f52f88c43fe1cfa5cab7d3ce4d9c3b707c6559f08247d8aef22fd20",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "83adf3222aa8c802ea1149212055bab8f507bda186c12f8e7689d4287dfcbd3d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9a77c108fedf41592f5a15df22aa473c6513aeb4fb7cb3e7b139052e32067445",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c5451805da447cbe750e9fc03862020e1faad161d2928747dfa4e3d3b62c6904",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a19a19332d41c0deeb192abd04cfa0e237196f55b936cf57063ad7e638cd31f5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0461ebc8bdb6e9cee0a206657f4ef5e3e5f03217ada18183133def468a42cba7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b7d087b98dd7387f46648396a9f81677351929eaf10515fdb61de0c0c4f78fce",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d13de824b89056f8f7f733f938b0343bf3eaa07bbe0ca11f722f7ce8e0e0b0e9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b9119d527395fde4b8e13947157c885486344c89bd3e846269e11904a922a456",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0eb12f8fb191adec3508f2949cf60e37432353bb3b41b4dd5fe71306f7cfb8c5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dcda752e9a1f033410219c4ae05734aaaba47759d0ddff0308b1ca8d2fd94c55",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a10c80eef4b661764653dcce9ec59bb7647d5f42668312f7f5e3ff1c4cc9f532",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "62ff4638318d5ecc0415d0fd46f68ff0cba8c4a84423d4e5735c82e7c4fda946",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f24783eb676ebefb408552be80a11c6bab4ba80fb465fda9ba5ab826b4dd9f4d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4567a691c2ef1861a2a697285f649a376274d14008896d040dea6dcde679e19a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "12856c4e66535afacd2da3bea0bd58da551d3547e2dc9c12ad929336794f98ab",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "006206a14949156a68e86c732942f30a94e9351c03eaf33dcfef4084f535d1e6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "860dcba9ed41bc1b2d5ca8cdd38471d1fdccf85d90c766fcb1633869e7c5390c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "82c7a0d1a7200842e4f70466a06ff7252a8df08c9dd51b142bdfd3f246b29543",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bbd220ed54a98ab7755e364d5fb40dadd34f715b848e900f621d42d4843c1682",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "54e4708b08155feee18b94516d9d948d6ee2669e927092df81c808b8bd4e740d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5d7e67332d471e12fa30743cf6ab0e75ce9157cb7ff8ae5ff3d1fb3f5666fabd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "eef4f5208640518c897b8938d63de5a33c9e08096e4c49c4fd91d5ff69c2e787",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ea8596283a6e1d7764eb45b8f71bb963f5a3863f11a7b8b0123dabcc87b063b0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bbc0a785d41fc8dbd6d4a87581b531552d6e346a66cad144aa9a65b5d7652418",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e60b8b68ede816f8230ab6768176dd79067e5beb89a9864998f4b572093b47f7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "019a62bd66a005957d29c0718312fdc92d780ff78254bb3b3cf1b30ba22f2287",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "06f30c173681cecde98f7fe7cb17b58630d4c84cc553f87f984bbaeb53510acd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6858c38ff4a93272bfd72f6246d38ffa22917c440edee81c816a8b8367aa2a3b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "18a0196d463ac8b1d522b7c2298fffa9a35b329bf93f73d80af67c15213af1b3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1962026bec208673887af57bbd00c6be4f63e48e7764e2365188a0bdf45be7cd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c9f94a84273f19660cdb8595a023b26c89b099fe1d1b0f455a22b5715cf2ca25",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ec1ecf932fedec5b7725df8ae2af7bee219b41f1a9acd7e20cbecd559020f349",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "de17c4d5e8f5992d843eb18d29f8f018d4d3b1f930aad770efc2f1b3add04594",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9a8c12ecdd2d8a4e3dcdc285d9ef335dddd182ca806524f8137814f0d0eb12a3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "19aae04606931534a6fe3dbeffd9a3f37ec9b3f4cd71af534483358f15989ab6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a297dbf6adfd7807b283beb36c9e1be984e0406582d3aca0a5ba3c5821680358",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "42daa46f24765372254a8f6485f898b879e8606591c2335068c37a79779879ee",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c9930ad8d7a06d3727788204cff3bef4e5e6bc3eacb7c0c7bde7172141bea1fe",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c48cd71a804f5488c657ebfbfb9b122e59411a80d4ca7f3a8df0ff4cb2e20cf6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e5c916e6b42978e1206c626d2a616f6e82af4fb9f81dee55eb508d73239e5da5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d4e8ba4055052d9b68dacba5ed7e96731f65524d2b7843d665814f20cc142037",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1df429933aa36643ada13c39588d6ad16c46e0d4e6df57ac499f8eb4f8969ca8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "15fc2c333ca865dbcf8ed93f1459f8063614ad1555d82e3eb0a5759e181322c0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fca90fab4bdd81f0a146452fd36c1b5806b9e70b1a7c6c7645288a2c6adb5d35",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2bd8c43f0e1f2a74163d2d26bbf51d6ea21a603531d524f3bdb16c44b20c1a5d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "77c8ddfceadc3bd5c84e2b992018a97907a7ab6a6b1b5eef45d80863771d8966",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "307a79e756a916f675b720efd3fd5bbb200cd94342079dc129c19059b9769f37",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a25db8e78cec2615b74450fde9414d5471c631e669f32a8003d8f8f66ae7f57b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2952197053a085d5ea4c40496a8b8ee0f7dca42342fb6123fc10b16970fe4b9f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0f7709a9db79a7bf06c9a08997b035730eba7bc511193d1c95e12d2495462b31",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "88bcab7bb4d76b674ff45d284830d8823aeb47cb8fda04b38a2e639806302a96",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "96aee7e38238d1b8d7ad8f9240809a7edfceb5cbe0a4ff4e8b7f51ce1dc6593b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "82116536cdd938e16c97216b5ae146fb2245637b6986b9d62ff88cb08880f506",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1ffa6a696e8d470f55fd28d43f6959819b8566f77536c5d34bd592376461c737",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ab84acb1158f15aa873c10384fe48fc48dcc61efc7fac2a93f83a1e41917028f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7b52f035a343eb4a8244a768d79b29fa16db443f69fd064034921a48b809cdf6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "68a9eeec701b9df81d5313d9b9d1611a99c0174ffb0691371b7011ca42b12678",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "641cf4f7859aba238a8f69932328ff67c1b51017ff349a63840a352f517a0460",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7498af1f8b87816e82841ea92ed91c1c5829ab719462baedf1a6f752f05e3358",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "428592c28fe6215e0bb8227a564746051b2de54e372f31cdec95425b138ab66f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "50741ac4c03d99165458f7beb627169cf3bf722432a0ce0051b199b5b28b7a3f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0ea16eef5e7416598813bb34f33ef3c33aae4af723150538460e34ca97efb412",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "68610ae72411978e74d1c21b3d8a553e38d20aaa20b2ac9104400ae11020f617",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "be35acb85178b71cdd69a98d91aad577ac3ba66a8e55a7c6bafbd7f3d78caf0d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c6cf942741a9f9e157aa8d5e8f9b1c5159d9ccc81e370cc8e72268851bf41d41",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "13141520d3f9c3db2decdb379f2eaf0c8c6ca6173f55cb029b70b92f79fa5047",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b8c4ae097c6a18963f67c0cf96a94a9fd8b56f25d792f6d3d35791a77e537e9b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "da374880aa1101559185b8fef7da3dcdee29c983f4fb7b381960938fd5703b30",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4010f59b283c1e073cd81f8ae75ecf87e5e08b7b3c66a046cbddc1908d873b43",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "90bd13befea600a060b426eccc1214f7a44865ff64d78f22628a7eb005053126",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "caf1e5c4068b479d2424ae8daea20f98b29b3b4b9c5d1fd5accd77cc87e089c1",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "162844857189ba6c021929cc1e59f87af8cdc5a424e77e123ae97038830cea1f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ee046bef9f4ee59d4630ba720b2f38943ad720a799284378f5979f030eb2be70",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cf4f7c8d6a9ad687b8e077d390929b868beb996354a56845a2e30aef1c7021bc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a95d6ae4fbd61c9264548011b222beec26d7798789db9c5101f3a34e81f3a55d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "937cc79f1d99cccc325b4bdfe235321ccd2b0bc08469c7b9d9a5b16744a9bc13",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "49d864d64326cb63dad6276827235bf6cc2e7e1b2f499bf043995671210b08ac",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a00eb3912dc7d77cc9c094bfa842f9af52771251827593f3e95d68d89b9217ed",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f923d0ac9b0d9cb9265347596eb71e3d14d0f95b11c971b6719f1cd94c2ee014",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "306b2377cbe5bcd6ccf64cae626dd1ec77b04a7e9e090850ebdb53c67ced71e7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7da21f36b41b86d5b8f125e3524a173bec1caa14e0ec1a54822a0cacb47641e7",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "75bcb1217b9406af3c14694643509aaa8246f8cd9ef7fb54747b1769744d1a7d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "eeb514ecb09045c7610396d8dcf873b18f02174aa2a269be570eed52c0ace065",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c8437c0b98a724bd36b15827e65054b7f52bf356e1a407e92dbbd8685d10c59f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2b1375fe2a2cac6e44ca7aa411d22533f5de41473d3cd91537fe6aae972fd6b2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5ffbbfc3e2814574476893660de57460ff934b10b30d0660a734603262a9b6a5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "661b3dac4e5351c88d18eb4277a249080639921921610c9fa465358dcfb08aa3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "93df45d82d6c6f85ce8dfdd968f93b5a3c9042a1c29355e769764fc60bf78ef3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e1e7e96de41476973c9106fe2ce3b70c82247919c0695f18669edd7f1f399a8e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "81bd1c0ed0de86df456b2f16fc790cefa055a9cffc3e88d29805dbe80eee466a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a453e2874dc441c41704b9f57bb5b923c1fbe632fb86a20c1e8ca7ad4d1f6a17",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5491deb385407a5445ba6e42f866ff5a54f194e14fef36fe32dc449ae8b52728",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dfb6f072659548c942a236bd1ea3cb744d437067b2640103175122ded31912f3",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3f8771c59cc9e328511e1944f79e05b12b20594e4ebddeb970856fbc0d25fed2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3ec5da946de155e58c3a90a4b5b03da618dbbe0685fb395d192453efb2c6f7d8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "05f1d46dc5c37f3bb89dedcc1bc34926d36106e58bff1379d39beca542336dbb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ef096d9196614f6b470400b7ce5d38ba0b90e6a32590d41be2c775630efac41f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "657fe8b24f7b6a7c879bdfb83a929496dacf19acf6fcf6288dc596a096c34bcc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "17deda6141570edcf9dad68f731a348df5df028da7d557fbfb83f8d4ff2b3b0c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "33dd2fcfeae1a6cbf9736115f7ba9d8bd7fbb40d63e9e1d29a6e928811788769",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "39ff4e7796bdbaa76013c9f30e7b973074e5b0f6d7befed2f6d2c73c47df0847",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ca04aa2f9356c78f05a1eaaf4a0f9a1e9613eed928007440f06e83f3a093b57f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6a21f807c747dffc5f88374b74c64bc94953fc4ad9c2bef3f27c62bc2943ddd2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5afc6cb33ad5a1efce82a8b49389a58bd9126d81c2e9c4557172f7e584921fe4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "32aaf38fb4c3f05374641bd8260853f04741995e99292d92d1a399a2349fc38e",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "281cd6cd8aa4a0ec1c750979de1622e1bfa080d056e15d1260b153f4eb0932e4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "fd8dbe5f3b0744f7bc12e5419a5c56a6b1bdd9397d56b91767b328e8d53d1719",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "92a188bf15cc5188efb5d8621ebc33c3d668c1e706cb5c1aaeec5d67525a9a9f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "35222bdd9be0080ac7a9c93c11e57d7ca2a835874880723df3cc7f22e1305070",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4d50c11088eab147436635ce2a4689319986b91b8e896bc326cffcbf2b4fe114",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b208a3698752b774f43a2c14b9d71045c57c0e495a2db513ac6049dd43298818",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "766247f028886a543083057959a0b5ee11bfe50d57a9da8dca8ee0b22e8a63d4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1c015dcbb2c24aea32571d2b0d99bc6fb99aac1a299f537468e004a8d84c4dcb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5550e465d1ae12df8d5135de92bc2668ac99559a130cca093ce84d94a82643d9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9737f5157a9aa826cd197777611d64ad005bf5bbd0add4f34704737682de0e24",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "914fb03bf38361330fe9dd4be2bee36608bb550c4e13956bf53ae538cd68483d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "603a2acc1f2dc1a4ca9c72dfd1eb2ca72572286c2c1cd2a36cd90b9d8293e414",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "0a960e5d4290b4a495efbd4103949edc1bd3f7106fadef3da92423caa6e4864a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ec1fa760d49ca3b6f5bf4cd3472057e4477a7967a6282bce775590676fc88361",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "7aab1e3f5f47567da52bb12e2700a7ce1a0306076acaf06afa42a72e15e9086c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "285acf40775db0def27932b5bf1884cc23f09798eeecc08989c6ef0b23ecef6c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "da59e7a66c749017b74ed36304b4d834e2c6b117f839a080dce91652b76bf382",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5aba2695f52bc8d26235b8014c688a015bee0cb15c15470e0f0ab4a345f66a88",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b5fbca0f2c3052c8c59983e3e380a9e7e7ed74a056800ef1d8e4090df8ddd995",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "390873f3e19254d7033d80ae3233ea71e6dd15c597f8eba851bb1aa6c0e39598",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f27a7e30977a9109f9b38d8fde2747d4f4c2860a39cdc6f464f70aef79c1419f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f900c18cfa76d1986555aff6b62c7149b7d7ad7b8000e9f3a11cf27fc6782bc2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2a29628c400c5bb9b95a6c875507b90e1663b762883b4c8146bdc996dc71afc4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e48b386c8c70906a10b73503e42dc2bfa3f277a5ed0255211492881146cc74c9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "80255e7a5b0aa41c1eff5330ce22b8694f3b0c9d1468fa4f3c3f186b8fc80bdd",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b16eda5e5e334224644e7d5d244b9bea45e61ddbff0cd2a0a9e3519d303c09df",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "070b8234b4644e7ade77c08013c4e288b0e5c5509c39403cca589105171038e5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6926e1b5a4bb96b597d3801e6011059edc2f01499b8dfc20ea26d647d9273feb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5288076b7943d930b84b612339e823d4eb3246e386c02b0c0581f468eb2d9fe5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f1c04e5b010970b2b1bc34f4ce85e5c7064463d10f01557a54f5bef274a68043",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "36eef3ac9c93ae068f9af5a7d22cac9674bc317bbd6822eec155b0aed301c8e4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3591cb781e66c38c6fb20039d017fc2736e3926c53ca8d4e1deaac16f4a1f778",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dde074b9492bb68b84c66902432bb4ca65309281a142c2157e6cc21736bee389",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f562849525352cda7518dd9e25694d4eb5d5d08585f83f3795f16abc978ac9c2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "e189b323ab646ccee7f1aef430f374989a1bfd27ff27fdff07f7252e8504e600",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1a5c49a5bb9779c476c18a1440b0ff9fe0490b2658bd2dfc3b795f73b7f1699c",
+        "anomaly": 1
+    },
+    {
+        "hash_transaction": "c43df52515c7ed98f53e0ecd1134184e5efd8861ccce6667cb54394def5a60c0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f1354254f09018de676048de3ecafe2aa3be3322e21bc9391afb3d579a4e55fc",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1e93d57d6e4ca75de0e4e02ca0b6d17eac4cf9b172ef78ee99567c4b6508ce94",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d12208e29d1a63c3a5f1a977e52c9f1160aa5923789eb67cd8c7984f9abb2a87",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ca24c0b17835cb63b115f889637ccbcd28380b802dbc36ab663289b48ed0eb0a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5bc6eaf68bf30f11e51778696e16cddcaa2ed9b335484ec8004c877748a81b2c",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "626667ef55f615d77866d794cf134b6fdcac0583003aca0d898c1c63a6041a7d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2af9ac2ebe3fba74cfa5d597b9ce577be63c2c17159785ad192063fe3dcb922d",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d3d4ca9775358ec3118c3f602b96cb08e1d672d4a3a452d805167a709c3259ef",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d76f771112930b41a1dc2db43dcdf4e39d19e6c8f9731cc62d38f07ba64bbf88",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bf044d7ff7a64364a9a00ad5ee5fd64d9cf6073fc30b82267777c8c339588956",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dd75c32fa94859d894ef135e76e861bdd77cb79ccb4cb59a41a3f4d8ac6fc9ac",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "32587ec2414c7b001bf10ac9d50b80d51b9a22ed102ead7656a928dd2658c8a5",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4907246cae42db2e4ea14f8da34da398c1a814f3e797b1c8f64ea6c28fffcacf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "55f158da0ae03744a75f7f5dfb92e8bbaf07586d7cd128d378d316b9bac71a4a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9dcb8875c7460bd1b82a2b1686fed7d05afee4688566b6e7fcf23265931d2d75",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "3b493bbb979ec82b881645c81c404f785c16f5398dfd246168b97a9812d026f4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b585f08e0d2c30995d1b19ec71bf9f795edb2e4b34a07409fd07087eb856e13f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ce4773d5557558d3886f0965b0db2e27cd71d08c077bfa851800043d1493b6a2",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6aa677f042dacbdc6b458b73caf71fec1d107ba01904ecb15d84f5c6d19917ae",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "31bc5328cfda468a2e2875ad1d0b10ced519c71cb56b5b929f6229c99bcf96b6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a092bbfe440895db0530f115e01fdff16d76ce1cc6e443a483f80a7bdb34ccbf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "41ae1e3f03f52ba49a2661e59d36844abb3da2c3996a473342432a8b7f335020",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "52fa17b75548fd31d312093f5dffae1ed0c8c3b7144f01b36bd248317e4a9826",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "901fda1f26d2358cf7ec8716d87a88ef58bc046b11bc63dc9ffcb6e96d3aa826",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "66d6a027dbd689cc3f909e1e0882f2941811c8bc3826f0972a5f4056c2501e4a",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "867f4f7958227414c7be813d732f025fa1276e3edae5aaa6339cc1f6e19d9193",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "37cd266592498e3e4fb1b2bec1f1a88c1be94c92036552b469c5ca863200e8a4",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "1b90788242fa19125c153efb503d422ae0bc42f31bf75f7dac27daba3a0b2ebf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "65625a088a3ab617843584ed30f6623bcfaa5e75671734992d89a8d1249d8efa",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "bd9755a1d50f8becf048b16baa97788aab04046abb4a07d47b83c119d4ed1f35",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "164fdeda8af6168e9089ab305ff9110db22f35a5cad884347e57a3aa2da2d89f",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "8ccf07db218e9dfb56599d97dcea8405c66b2746aacb5028e4d31ed9bd6d2142",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "60d19c4cbcfa0dd3a922e5965dac38ea6c4b0128ab129ba1d3a03392b5872c03",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "f871e658e9dd1b9a5c726497de2c6e9effc29154d1316a246995b653c6748be6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "15d4a3fc19a9162f0e2a26784d0791b2174399ccfa340922a1714d9e3e63b2cf",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "5f717bd939175a9c0c4ecfc32fc9d3ab3dc4f9d6ed1dc85a0c864934335d23f0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "c6b8d4666ff6343bc2f626f84145c19be75bc147f33bc0ec6281503268ba69e9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "dbcdbe0ade08b2944ba0fa4d4c73a67cf099b194af2b8543782993dba7296ead",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ebbb5d43a244c213d8e1530f4ee1e36ab9e4a79c8d0e2e25e8706e18f28a4432",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "40532ffa8f27142f00a7cfa96447d8183dce4c998fd5dc0130da7542f5aaa696",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "41309188ee8960c85cb9d07820eaafc00995a30450b7e430ab8f7f508b3ef0a0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "74d5a8480096e9fb1f85ce33a08844173e1e451c417cbb5aece238981d852066",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "184a5364c4a42fd3a903c6b274adb665ab413a92d80e06cbd27d288d239bd62b",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "cee704accc6183ad39180cf957058bf8763f8ca912134166b0223152de7652b6",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "6a107d12fac4ffe3c8c6a89e92712e8ea5861b28d5fede30415bce397cc4d958",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "9231bd562bd701e0279ceb1ce4c54fa0b8cc787ef15e126237d89181a9095702",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "ff61388039b7c679fcbece87e2c4cf88a671bf6b63f4f6c464d0cdfa2fe28204",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "879798e739c50a4ffb600dee89db951c1ab56539676ee2f74fc4fc3e9a27dcda",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4e2d0117047fcdd2757c694c2707c88077c142f311dca7aa786784be2b386260",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "d0f8e9d1837377235ffc59fbf3b8f74ff36a727cd01bcb245d0c746aa0beb9df",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "80392ee00fac64fd89c97ff2c0685fd7081ef6d3f03bac9a473fd3dcd8fd3388",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4ff8966c386b54fbf05722ac77a6137c4aceb7b7f6369daef8a53c383bcc2f36",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a16a48aa3e3baaab671a9a924b08731d73222cc3b3bc3ce4a60c58fbe3d74611",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "94503cfffb8f4dfa038b7eacbb75b6428ad1a9632c40a28a20e8676474cc53b9",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "2842b7f862b982df399a536631a8693f9aab421951142f3db76a5fbfc978f8cb",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "b82ed9024db26a8eee5e79f86bd94b16bda042599b9be64c377fed6466b724f8",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "4c68be3371f068b6e230b95852bf6835c375f8aef80f539f3433925098cf7265",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "a7eb68b098847e183adf18d62cb310f2e4eee0e8476df25ffbadd217f4fceab0",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "744559d99269d1f7938036700552221985aae364f47fd85aa8449afc51bec730",
+        "anomaly": 0
+    },
+    {
+        "hash_transaction": "260336574cf766234e9cc23a1fafd78bf982e179a8259150e6abce361c328ea0",
+        "anomaly": 0
+    }
+]

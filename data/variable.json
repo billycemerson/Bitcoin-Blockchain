@@ -1,0 +1,38 @@
+[
+    {
+        "variable": "total_btc",
+        "value": 0.32221993413565275
+    },
+    {
+        "variable": "mean_in_btc",
+        "value": 0.308357432123496
+    },
+    {
+        "variable": "mean_out_btc",
+        "value": 0.2803693367898175
+    },
+    {
+        "variable": "indegree",
+        "value": 0.2542110761677843
+    },
+    {
+        "variable": "outdegree",
+        "value": 0.29765683000327253
+    },
+    {
+        "variable": "total_in",
+        "value": 0.3131172832717083
+    },
+    {
+        "variable": "total_out",
+        "value": 0.3163888539234591
+    },
+    {
+        "variable": "sender_entropy",
+        "value": 0.416849756960755
+    },
+    {
+        "variable": "receiver_entropy",
+        "value": 0.41675904584600515
+    }
+]
